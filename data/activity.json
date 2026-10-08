@@ -1,0 +1,69 @@
+{
+  "updated_at": "2026-10-08",
+  "records": [
+    {
+      "date": "2026-10-08",
+      "company": "Gubbi Civil Engineers",
+      "buyer": "Digital team (published business address)",
+      "service": "Website",
+      "source": "Public buyer request",
+      "stage": "Sent",
+      "gmail_message_id": "1a119f47456a3243",
+      "researched": true,
+      "qualified": false,
+      "new_prospect": true,
+      "next_action": "Monitor reply; identify named marketing decision-maker",
+      "evidence_url": ""
+    },
+    {
+      "date": "2026-10-08",
+      "company": "Devanshi Thakkar — skincare launch",
+      "buyer": "Devanshi Thakkar (published contact)",
+      "service": "Branding",
+      "source": "Public buyer request",
+      "stage": "Sent",
+      "gmail_message_id": "1a119f489ea87103",
+      "researched": true,
+      "qualified": true,
+      "new_prospect": true,
+      "next_action": "Monitor reply; propose discovery call",
+      "evidence_url": ""
+    },
+    {
+      "date": "2026-10-07",
+      "company": "Naveen Shukla — Powai SEO request",
+      "buyer": "Naveen Shukla",
+      "service": "SEO / AI SEO",
+      "source": "Public buyer request",
+      "stage": "Sent",
+      "gmail_message_id": "1a1153a82b0065b5",
+      "researched": true,
+      "qualified": true,
+      "next_action": "Follow up after appropriate interval"
+    },
+    {
+      "date": "2026-10-07",
+      "company": "StrateRise Consulting",
+      "buyer": "Business inbox; named buyer not confirmed",
+      "service": "Website",
+      "source": "Public buyer request",
+      "stage": "Sent",
+      "gmail_message_id": "1a115db1902947b3",
+      "researched": true,
+      "qualified": false,
+      "next_action": "Verify exact buyer before counting qualified"
+    },
+    {
+      "date": "2026-10-07",
+      "company": "Bizgull",
+      "buyer": "Support inbox; named buyer not confirmed",
+      "service": "Performance Marketing",
+      "source": "Public buyer request",
+      "stage": "Sent",
+      "gmail_message_id": "1a115db358db27b5",
+      "researched": true,
+      "qualified": false,
+      "next_action": "Verify exact buyer before counting qualified"
+    }
+  ]
+}
