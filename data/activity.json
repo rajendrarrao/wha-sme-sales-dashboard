@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-10-08",
+  "updated_at": "2026-10-09",
   "records": [
+    {
+      "date": "2026-10-09",
+      "company": "Bend-N-Fab Engineering Pvt. Ltd.",
+      "buyer": "Raju K. K. — General Manager",
+      "service": "Industrial SEO / Website / B2B RFQ",
+      "source": "Official company website",
+      "stage": "Sent",
+      "gmail_message_id": "1a120396c7683482",
+      "researched": true,
+      "qualified": true,
+      "new_prospect": true,
+      "next_action": "Check reply and follow up after 3 business days",
+      "evidence_url": "https://www.bendnfab.com/index.php/home/contact"
+    },
     {
       "date": "2026-10-08",
       "company": "Gubbi Civil Engineers",
