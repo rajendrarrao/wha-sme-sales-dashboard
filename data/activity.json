@@ -3,6 +3,20 @@
   "records": [
     {
       "date": "2026-10-11",
+      "company": "SEO Agency RFP — company undisclosed",
+      "buyer": "Veena Wadhwani",
+      "service": "SEO / Technical SEO / Content / Local & International SEO",
+      "source": "User-supplied RFP screenshot and LinkedIn contact details",
+      "stage": "Sent",
+      "gmail_message_id": "1a12c089dec5ba14",
+      "researched": true,
+      "qualified": true,
+      "new_prospect": true,
+      "next_action": "Await company website and RFP details; submit company profile and relevant case studies; confirm remote delivery acceptance",
+      "evidence_url": "https://www.linkedin.com/in/veena-wadhwani-21842b192"
+    },
+    {
+      "date": "2026-10-11",
       "company": "Ninecamp Ventures",
       "buyer": "Shruti Sharma — Marketing",
       "service": "Performance Marketing / Google Ads / Meta Ads",
