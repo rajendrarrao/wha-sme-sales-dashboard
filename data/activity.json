@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-10-09",
+  "updated_at": "2026-10-11",
   "records": [
+    {
+      "date": "2026-10-11",
+      "company": "Protexive Security Services",
+      "buyer": "Monika Singh — business development (routed via official sales inbox)",
+      "service": "Google Ads / B2B Lead Generation / SEO",
+      "source": "User-supplied agency requirement screenshot",
+      "stage": "Sent",
+      "gmail_message_id": "1a12c00add3235cc",
+      "researched": true,
+      "qualified": false,
+      "new_prospect": true,
+      "next_action": "Check reply; share relevant B2B case studies; clarify security-sector experience; ask for 15-minute call",
+      "evidence_url": "https://protexivesecurity.com/contact-us.html"
+    },
     {
       "date": "2026-10-09",
       "company": "Bend-N-Fab Engineering Pvt. Ltd.",
