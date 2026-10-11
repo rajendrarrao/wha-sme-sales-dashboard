@@ -3,6 +3,20 @@
   "records": [
     {
       "date": "2026-10-11",
+      "company": "Ninecamp Ventures",
+      "buyer": "Shruti Sharma — Marketing",
+      "service": "Performance Marketing / Google Ads / Meta Ads",
+      "source": "User-supplied agency request screenshot",
+      "stage": "Sent",
+      "gmail_message_id": "1a12c017bcbe0a66",
+      "researched": true,
+      "qualified": true,
+      "new_prospect": true,
+      "next_action": "Check reply; clarify whether remote pan-India agency meets Delhi/NCR-only requirement",
+      "evidence_url": ""
+    },
+    {
+      "date": "2026-10-11",
       "company": "Protexive Security Services",
       "buyer": "Monika Singh — business development (routed via official sales inbox)",
       "service": "Google Ads / B2B Lead Generation / SEO",
