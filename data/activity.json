@@ -1,6 +1,96 @@
 {
-  "updated_at": "2026-10-11",
+  "updated_at": "2026-10-15T09:40:00+05:30",
   "records": [
+    {
+      "date": "2026-10-13",
+      "company": "Promas Engineers",
+      "buyer": "Balasaheb Gatkal — Director",
+      "service": "Industrial SEO / B2B enquiries",
+      "email": "sales@promasindia.com",
+      "source": "Previously researched industrial prospect; public company inbox",
+      "stage": "Sent",
+      "gmail_message_id": "1a13318c0e031434",
+      "researched": false,
+      "qualified": false,
+      "new_prospect": false,
+      "reply_confirmed": false,
+      "meeting_confirmed": false,
+      "next_action": "First follow-up due 16 Oct; final 22 Oct if no reply, bounce or opt-out",
+      "activity_type": "new",
+      "followup_due": "2026-10-16"
+    },
+    {
+      "date": "2026-10-13",
+      "company": "Bright HVAC Engineers",
+      "buyer": "Jaysukhlal Desai — Director",
+      "service": "HVAC SEO / Commercial enquiries",
+      "email": "brighthvacengineers@gmail.com",
+      "source": "Previously researched industrial prospect; public company inbox",
+      "stage": "Sent",
+      "gmail_message_id": "1a13318bbe838209",
+      "researched": false,
+      "qualified": false,
+      "new_prospect": false,
+      "reply_confirmed": false,
+      "meeting_confirmed": false,
+      "next_action": "First follow-up due 16 Oct; final 22 Oct if no reply, bounce or opt-out",
+      "activity_type": "new",
+      "followup_due": "2026-10-16"
+    },
+    {
+      "date": "2026-10-13",
+      "company": "Everest Engineering Equipment",
+      "buyer": "P. V. Ramdev — Managing Director",
+      "service": "Industrial lead generation",
+      "email": "sales@everestengg.in",
+      "source": "Previously researched industrial prospect; public company inbox",
+      "stage": "Sent",
+      "gmail_message_id": "1a13318ae5c56c94",
+      "researched": false,
+      "qualified": false,
+      "new_prospect": false,
+      "reply_confirmed": false,
+      "meeting_confirmed": false,
+      "next_action": "First follow-up due 16 Oct; final 22 Oct if no reply, bounce or opt-out",
+      "activity_type": "new",
+      "followup_due": "2026-10-16"
+    },
+    {
+      "date": "2026-10-13",
+      "company": "Skandwil India",
+      "buyer": "Samir Shah — Director",
+      "service": "Industrial SEO / B2B enquiries",
+      "email": "info@skandwil.in",
+      "source": "Previously researched industrial prospect; public company inbox",
+      "stage": "Sent",
+      "gmail_message_id": "1a13318a7da339d8",
+      "researched": false,
+      "qualified": false,
+      "new_prospect": false,
+      "reply_confirmed": false,
+      "meeting_confirmed": false,
+      "next_action": "First follow-up due 16 Oct; final 22 Oct if no reply, bounce or opt-out",
+      "activity_type": "new",
+      "followup_due": "2026-10-16"
+    },
+    {
+      "date": "2026-10-13",
+      "company": "An-Tech Fabrication",
+      "buyer": "Saurabh Kanakiya — Director",
+      "service": "Industrial SEO / B2B enquiries",
+      "email": "antechfabrication@gmail.com",
+      "source": "Previously researched industrial prospect; public company inbox",
+      "stage": "Sent",
+      "gmail_message_id": "1a133189f2651106",
+      "researched": false,
+      "qualified": false,
+      "new_prospect": false,
+      "reply_confirmed": false,
+      "meeting_confirmed": false,
+      "next_action": "First follow-up due 16 Oct; final 22 Oct if no reply, bounce or opt-out",
+      "activity_type": "new",
+      "followup_due": "2026-10-16"
+    },
     {
       "date": "2026-10-11",
       "company": "SEO Agency RFP — company undisclosed",
@@ -49,13 +139,14 @@
       "buyer": "Raju K. K. — General Manager",
       "service": "Industrial SEO / Website / B2B RFQ",
       "source": "Official company website",
-      "stage": "Sent",
+      "stage": "Bounced",
       "gmail_message_id": "1a120396c7683482",
       "researched": true,
       "qualified": true,
       "new_prospect": true,
-      "next_action": "Check reply and follow up after 3 business days",
-      "evidence_url": "https://www.bendnfab.com/index.php/home/contact"
+      "next_action": "Hard bounce 9 Oct: address not found. Do not resend; verify replacement contact.",
+      "evidence_url": "https://www.bendnfab.com/index.php/home/contact",
+      "bounced": true
     },
     {
       "date": "2026-10-08",
@@ -82,8 +173,16 @@
       "researched": true,
       "qualified": true,
       "new_prospect": true,
-      "next_action": "Monitor reply; propose discovery call",
-      "evidence_url": ""
+      "next_action": "Follow-up sent 13 Oct; check for buyer reply before next contact.",
+      "evidence_url": "",
+      "followups": [
+        {
+          "date": "2026-10-13",
+          "gmail_message_id": "1a1330d7c6392162",
+          "email": "thakkardevanshi82@gmail.com",
+          "reply_confirmed": false
+        }
+      ]
     },
     {
       "date": "2026-10-07",
@@ -132,8 +231,16 @@
       "researched": true,
       "qualified": true,
       "new_prospect": true,
-      "next_action": "Follow up on agency partner request; share verified D2C case studies",
-      "evidence_url": "https://www.linkedin.com/in/ripulsharma/"
+      "next_action": "Follow-up sent 13 Oct; check for buyer reply before next contact.",
+      "evidence_url": "https://www.linkedin.com/in/ripulsharma/",
+      "followups": [
+        {
+          "date": "2026-10-13",
+          "gmail_message_id": "1a1330d5ee56607a",
+          "email": "ripul@babyorgano.com",
+          "reply_confirmed": false
+        }
+      ]
     },
     {
       "date": "2026-10-08",
@@ -146,8 +253,16 @@
       "researched": true,
       "qualified": false,
       "new_prospect": true,
-      "next_action": "Identify decision maker and monitor response",
-      "evidence_url": ""
+      "next_action": "Follow-up sent 13 Oct; check for buyer reply before next contact.",
+      "evidence_url": "",
+      "followups": [
+        {
+          "date": "2026-10-13",
+          "gmail_message_id": "1a1330d69066d787",
+          "email": "dm@shreejiventures.in",
+          "reply_confirmed": false
+        }
+      ]
     },
     {
       "date": "2026-10-08",
@@ -160,8 +275,16 @@
       "researched": true,
       "qualified": false,
       "new_prospect": true,
-      "next_action": "Verify decision maker; monitor reply",
-      "evidence_url": ""
+      "next_action": "Follow-up sent 13 Oct; check for buyer reply before next contact.",
+      "evidence_url": "",
+      "followups": [
+        {
+          "date": "2026-10-13",
+          "gmail_message_id": "1a1330d7273831e4",
+          "email": "info@propertyserch.com",
+          "reply_confirmed": false
+        }
+      ]
     },
     {
       "date": "2026-10-07",
@@ -290,5 +413,5 @@
       "evidence_url": ""
     }
   ],
-  "reporting_note": "Gmail-confirmed outreach only; business inbox does not establish named-buyer qualification. Duplicate VytalYou send excluded from unique prospect count."
+  "reporting_note": "Gmail-confirmed sent messages; sent does not imply delivered. 7-day window is inclusive of selected date, in IST. Follow-ups are counted separately; known hard bounce excluded from delivered estimates."
 }
