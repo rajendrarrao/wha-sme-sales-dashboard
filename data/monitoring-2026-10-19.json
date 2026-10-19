@@ -1,0 +1,16 @@
+{
+  "checked_at": "2026-10-19T09:03:21+05:30",
+  "source": "Gmail verified; CRM synchronized",
+  "new_sends_this_check": 0,
+  "new_replies": 0,
+  "new_bounces": 0,
+  "new_opt_outs": 0,
+  "new_meetings": 0,
+  "priority_threads_checked": 9,
+  "industrial_first_followups_sent_2026_10_16": 5,
+  "industrial_final_followup_next_eligible": "2026-10-23",
+  "other_first_touches_sent_2026_10_15": 4,
+  "other_first_followup_next_eligible": "2026-10-20",
+  "status": "No outreach due 19 Oct. Recheck suppression before sending.",
+  "public_data_note": "No private contact details included."
+}
