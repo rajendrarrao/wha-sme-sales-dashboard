@@ -544,15 +544,16 @@
       "buyer": "Suryanshu Vyas",
       "service": "Event website development",
       "source": "Published agency requirement",
-      "stage": "Delivery delayed — Gmail retrying",
+      "stage": "Delivery delayed; recipient domain unverified — HOLD",
       "gmail_message_id": "1a162b9a400e4c86",
-      "next_action": "HOLD: Gmail will retry delivery for approximately 46 hours from 23 Oct 09:29 IST. Do not resend or follow up until delivery outcome checked; re-evaluate 27 Oct follow-up.",
+      "next_action": "HOLD — verify recipient domain before any resend. Address used: suryanshu.vyas@timesoindia.com; differs from publicly documented Times of India domains timesofindia.com / timesgroup.com (missing 'f' in 'of'). Gmail reports temporary connection timeout 23 Oct 09:29 IST and retries for 46 hours. Do not guess or automatically substitute a corrected address. Await delivery outcome and independently verify contact.",
       "reply_confirmed": false,
       "meeting_confirmed": false,
       "last_checked": "2026-10-23T15:04:36+05:30",
       "delivery_status": "Temporary connection timeout (23 Oct 09:29 IST); not permanently bounced",
       "delivery_notice_message_id": "1a16817a672b056d",
-      "followup_due": null
+      "followup_due": null,
+      "domain_verification": "timesoindia.com is not the same as Times of India's published timesofindia.com/timesgroup.com domains; verify before sending."
     },
     {
       "date": "2026-10-21",
@@ -615,5 +616,5 @@
       "last_checked": "2026-10-23T10:57:43+05:30"
     }
   ],
-  "reporting_note": "23 Oct 15:04 IST Gmail review: no new WHA prospect replies, opt-outs or meetings. New Times of India temporary delivery delay (SMTP connection timeout) found; Gmail retrying; NOT a permanent bounce or confirmed delivery. No new sends. Five industrial final follow-ups previously blocked, NOT SENT. Historical nine-lead workbook unavailable; researched contacts not verified recipients."
+  "reporting_note": "23 Oct 15:04 IST Gmail review: no new WHA prospect replies, opt-outs or meetings. New Times of India temporary delivery delay (SMTP connection timeout) found; Gmail retrying; NOT a permanent bounce or confirmed delivery. No new sends. Five industrial final follow-ups previously blocked, NOT SENT. Historical nine-lead workbook unavailable; researched contacts not verified recipients. Important: Times of India recipient domain timesoindia.com differs from published company domains, verify before any resend; no alternate address inferred."
 }
