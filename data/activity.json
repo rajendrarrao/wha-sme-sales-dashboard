@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T09:40:00+05:30",
+  "updated_at": "2026-10-23T10:57:43+05:30",
   "records": [
     {
       "date": "2026-10-13",
@@ -15,9 +15,18 @@
       "new_prospect": false,
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "next_action": "First follow-up due 16 Oct; final 22 Oct if no reply, bounce or opt-out",
+      "next_action": "Final follow-up attempted 23 Oct but blocked (NOT SENT); manual review required. No further automated sends.",
       "activity_type": "new",
-      "followup_due": "2026-10-16"
+      "followup_due": "2026-10-16",
+      "followups": [
+        {
+          "date": "2026-10-16",
+          "gmail_message_id": "1a142f7c817a8dc2",
+          "reply_confirmed": false
+        }
+      ],
+      "owner_action": "Final follow-up blocked 23 Oct; manual review before any additional contact.",
+      "last_checked": "2026-10-23T10:57:43+05:30"
     },
     {
       "date": "2026-10-13",
@@ -33,9 +42,18 @@
       "new_prospect": false,
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "next_action": "First follow-up due 16 Oct; final 22 Oct if no reply, bounce or opt-out",
+      "next_action": "Final follow-up attempted 23 Oct but blocked (NOT SENT); manual review required. No further automated sends.",
       "activity_type": "new",
-      "followup_due": "2026-10-16"
+      "followup_due": "2026-10-16",
+      "followups": [
+        {
+          "date": "2026-10-16",
+          "gmail_message_id": "1a142f7bfb768cf1",
+          "reply_confirmed": false
+        }
+      ],
+      "owner_action": "Final follow-up blocked 23 Oct; manual review before any additional contact.",
+      "last_checked": "2026-10-23T10:57:43+05:30"
     },
     {
       "date": "2026-10-13",
@@ -51,9 +69,18 @@
       "new_prospect": false,
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "next_action": "First follow-up due 16 Oct; final 22 Oct if no reply, bounce or opt-out",
+      "next_action": "Final follow-up attempted 23 Oct but blocked (NOT SENT); manual review required. No further automated sends.",
       "activity_type": "new",
-      "followup_due": "2026-10-16"
+      "followup_due": "2026-10-16",
+      "followups": [
+        {
+          "date": "2026-10-16",
+          "gmail_message_id": "1a142f7b571c36ef",
+          "reply_confirmed": false
+        }
+      ],
+      "owner_action": "Final follow-up blocked 23 Oct; manual review before any additional contact.",
+      "last_checked": "2026-10-23T10:57:43+05:30"
     },
     {
       "date": "2026-10-13",
@@ -69,9 +96,18 @@
       "new_prospect": false,
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "next_action": "First follow-up due 16 Oct; final 22 Oct if no reply, bounce or opt-out",
+      "next_action": "Final follow-up attempted 23 Oct but blocked (NOT SENT); manual review required. No further automated sends.",
       "activity_type": "new",
-      "followup_due": "2026-10-16"
+      "followup_due": "2026-10-16",
+      "followups": [
+        {
+          "date": "2026-10-16",
+          "gmail_message_id": "1a142f7abcbf9e21",
+          "reply_confirmed": false
+        }
+      ],
+      "owner_action": "Final follow-up blocked 23 Oct; manual review before any additional contact.",
+      "last_checked": "2026-10-23T10:57:43+05:30"
     },
     {
       "date": "2026-10-13",
@@ -87,9 +123,18 @@
       "new_prospect": false,
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "next_action": "First follow-up due 16 Oct; final 22 Oct if no reply, bounce or opt-out",
+      "next_action": "Final follow-up attempted 23 Oct but blocked (NOT SENT); manual review required. No further automated sends.",
       "activity_type": "new",
-      "followup_due": "2026-10-16"
+      "followup_due": "2026-10-16",
+      "followups": [
+        {
+          "date": "2026-10-16",
+          "gmail_message_id": "1a142f7a2c171fb3",
+          "reply_confirmed": false
+        }
+      ],
+      "owner_action": "Final follow-up blocked 23 Oct; manual review before any additional contact.",
+      "last_checked": "2026-10-23T10:57:43+05:30"
     },
     {
       "date": "2026-10-11",
@@ -411,7 +456,161 @@
       "new_prospect": true,
       "next_action": "Identify decision maker",
       "evidence_url": ""
+    },
+    {
+      "date": "2026-10-15",
+      "company": "Shades of India",
+      "buyer": "Garima — recipient; role requires re-verification",
+      "service": "Performance marketing",
+      "source": "Historical lead, new WHA prospect",
+      "stage": "Sent",
+      "gmail_message_id": "1a13e3417dd6075e",
+      "next_action": "First follow-up overdue; attempts blocked, NOT SENT; manual review. No final follow-up until first follow-up confirmed.",
+      "owner_action": "Review blocked first follow-up and decision-maker eligibility.",
+      "reply_confirmed": false,
+      "meeting_confirmed": false,
+      "last_checked": "2026-10-23T10:57:43+05:30"
+    },
+    {
+      "date": "2026-10-15",
+      "company": "Furbishy",
+      "buyer": "Tejaswini — recipient",
+      "service": "Performance marketing",
+      "source": "Historical lead, new WHA prospect",
+      "stage": "Skipped",
+      "gmail_message_id": "1a13e341fc5b0be0",
+      "next_action": "Excluded interior-design segment. First-touch previously sent; no further outreach.",
+      "reply_confirmed": false,
+      "meeting_confirmed": false,
+      "last_checked": "2026-10-23T10:57:43+05:30"
+    },
+    {
+      "date": "2026-10-15",
+      "company": "H T A and Associates",
+      "buyer": "Mr Thakker — recipient",
+      "service": "SEO",
+      "source": "Historical lead, new WHA prospect",
+      "stage": "Sent",
+      "gmail_message_id": "1a13e3426f7c75a7",
+      "next_action": "First follow-up overdue; attempted but blocked, NOT SENT; manual review.",
+      "owner_action": "Review blocked first follow-up.",
+      "reply_confirmed": false,
+      "meeting_confirmed": false,
+      "last_checked": "2026-10-23T10:57:43+05:30"
+    },
+    {
+      "date": "2026-10-15",
+      "company": "Nehlia Developers",
+      "buyer": "Krishan Kaushik — marketing/vendor contact",
+      "service": "Agency collaboration",
+      "source": "Published agency partnership request",
+      "stage": "Sent",
+      "gmail_message_id": "1a13f0f2404eab6a",
+      "next_action": "First follow-up overdue; attempted but blocked, NOT SENT; manual review.",
+      "owner_action": "Review blocked first follow-up.",
+      "reply_confirmed": false,
+      "meeting_confirmed": false,
+      "last_checked": "2026-10-23T10:57:43+05:30"
+    },
+    {
+      "date": "2026-10-19",
+      "company": "NexGen Edutech",
+      "buyer": "Agency partnership inbox",
+      "service": "Website development",
+      "source": "Published agency partnership request",
+      "stage": "Sent",
+      "gmail_message_id": "1a1526668cb875f2",
+      "next_action": "Hold follow-up pending education-sector exclusion check.",
+      "reply_confirmed": false,
+      "meeting_confirmed": false,
+      "last_checked": "2026-10-23T10:57:43+05:30"
+    },
+    {
+      "date": "2026-10-22",
+      "company": "Sanchit Kumar — new venture",
+      "buyer": "Sanchit Kumar",
+      "service": "Full-service digital marketing agency partnership",
+      "source": "Published agency requirement",
+      "stage": "Sent",
+      "gmail_message_id": "1a162b7f4eb86ce6",
+      "next_action": "First follow-up 27 Oct after fresh reply/bounce/opt-out check.",
+      "reply_confirmed": false,
+      "meeting_confirmed": false,
+      "last_checked": "2026-10-23T10:57:43+05:30"
+    },
+    {
+      "date": "2026-10-22",
+      "company": "Times of India — events/expos",
+      "buyer": "Suryanshu Vyas",
+      "service": "Event website development",
+      "source": "Published agency requirement",
+      "stage": "Sent",
+      "gmail_message_id": "1a162b9a400e4c86",
+      "next_action": "First follow-up 27 Oct after fresh reply/bounce/opt-out check.",
+      "reply_confirmed": false,
+      "meeting_confirmed": false,
+      "last_checked": "2026-10-23T10:57:43+05:30"
+    },
+    {
+      "date": "2026-10-21",
+      "company": "DiaSys Diagnostics India",
+      "buyer": "Kunjal Sharma — GM Sales/Marketing/BD (research)",
+      "service": "B2B SEO",
+      "source": "Apollo research",
+      "stage": "Research",
+      "next_action": "Verify attributable direct working email, buyer fit, duplicates and opt-outs before first touch.",
+      "reply_confirmed": false,
+      "meeting_confirmed": false,
+      "last_checked": "2026-10-23T10:57:43+05:30"
+    },
+    {
+      "date": "2026-10-21",
+      "company": "Prolicious",
+      "buyer": "Prakash Chawla — founder/director (research)",
+      "service": "Performance marketing",
+      "source": "Apollo research",
+      "stage": "Research",
+      "next_action": "Verify marketing buyer, attributable working email and opt-outs before first touch.",
+      "reply_confirmed": false,
+      "meeting_confirmed": false,
+      "last_checked": "2026-10-23T10:57:43+05:30"
+    },
+    {
+      "date": "2026-10-21",
+      "company": "Paras Aerospace",
+      "buyer": "Decision-maker unverified",
+      "service": "Industrial SEO",
+      "source": "Apollo research",
+      "stage": "Research",
+      "next_action": "Verify company fit and decision-maker direct email.",
+      "reply_confirmed": false,
+      "meeting_confirmed": false,
+      "last_checked": "2026-10-23T10:57:43+05:30"
+    },
+    {
+      "date": "2026-10-21",
+      "company": "Wipro Water",
+      "buyer": "Decision-maker unverified",
+      "service": "Commercial SEO",
+      "source": "Apollo research",
+      "stage": "Research",
+      "next_action": "Verify marketing procurement and decision-maker email.",
+      "reply_confirmed": false,
+      "meeting_confirmed": false,
+      "last_checked": "2026-10-23T10:57:43+05:30"
+    },
+    {
+      "date": "2026-10-21",
+      "company": "KBM Engineering",
+      "buyer": "Decision-maker unverified",
+      "service": "Website optimization",
+      "source": "Apollo research",
+      "stage": "Research",
+      "next_action": "Verify company fit, decision-maker and working email.",
+      "reply_confirmed": false,
+      "meeting_confirmed": false,
+      "last_checked": "2026-10-23T10:57:43+05:30"
     }
   ],
-  "reporting_note": "Gmail-confirmed sent messages; sent does not imply delivered. 7-day window is inclusive of selected date, in IST. Follow-ups are counted separately; known hard bounce excluded from delivered estimates."
+  "reporting_note": "Gmail-confirmed sends only. Sent does not imply delivered. 23 Oct 10:57 IST review: no new prospect replies, bounces, opt-outs or meetings; no new sends. Industrial final follow-ups blocked on 23 Oct, NOT SENT. Research contacts are not verified recipients."
 }
