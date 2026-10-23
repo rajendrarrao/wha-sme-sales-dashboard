@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T15:04:36+05:30",
+  "updated_at": "2026-10-23T16:55:50+05:30",
   "records": [
     {
       "date": "2026-10-13",
@@ -539,21 +539,29 @@
       "last_checked": "2026-10-23T15:04:36+05:30"
     },
     {
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "company": "Times of India — events/expos",
       "buyer": "Suryanshu Vyas",
       "service": "Event website development",
       "source": "Published agency requirement",
-      "stage": "Delivery delayed; recipient domain unverified — HOLD",
-      "gmail_message_id": "1a162b9a400e4c86",
-      "next_action": "HOLD — verify recipient domain before any resend. Address used: suryanshu.vyas@timesoindia.com; differs from publicly documented Times of India domains timesofindia.com / timesgroup.com (missing 'f' in 'of'). Gmail reports temporary connection timeout 23 Oct 09:29 IST and retries for 46 hours. Do not guess or automatically substitute a corrected address. Await delivery outcome and independently verify contact.",
+      "stage": "Sent",
+      "gmail_message_id": "1a168627f4edabf1",
+      "next_action": "Corrected recipient Gmail-confirmed SENT 23 Oct. Check replies, bounce and opt-outs before first follow-up due Wed 28 Oct. Do not resend to typo address.",
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "last_checked": "2026-10-23T15:04:36+05:30",
-      "delivery_status": "Temporary connection timeout (23 Oct 09:29 IST); not permanently bounced",
+      "last_checked": "2026-10-23T16:55:50+05:30",
+      "delivery_status": "Corrected address Gmail SENT; delivery not independently confirmed. Original misspelled domain had temporary delivery delay.",
       "delivery_notice_message_id": "1a16817a672b056d",
-      "followup_due": null,
-      "domain_verification": "timesoindia.com is not the same as Times of India's published timesofindia.com/timesgroup.com domains; verify before sending."
+      "followup_due": "2026-10-28",
+      "domain_verification": "User corrected email to timesofindia.com and explicitly requested resend; Gmail SENT verified 23 Oct.",
+      "email": "suryanshu.vyas@timesofindia.com",
+      "send_confirmed": true,
+      "original_typo_send": {
+        "email": "suryanshu.vyas@timesoindia.com",
+        "gmail_message_id": "1a162b9a400e4c86",
+        "date": "2026-10-22",
+        "status": "Temporary delivery delay 23 Oct; do not retry"
+      }
     },
     {
       "date": "2026-10-21",
@@ -616,5 +624,5 @@
       "last_checked": "2026-10-23T10:57:43+05:30"
     }
   ],
-  "reporting_note": "23 Oct 15:04 IST Gmail review: no new WHA prospect replies, opt-outs or meetings. New Times of India temporary delivery delay (SMTP connection timeout) found; Gmail retrying; NOT a permanent bounce or confirmed delivery. No new sends. Five industrial final follow-ups previously blocked, NOT SENT. Historical nine-lead workbook unavailable; researched contacts not verified recipients. Important: Times of India recipient domain timesoindia.com differs from published company domains, verify before any resend; no alternate address inferred."
+  "reporting_note": "23 Oct 16:55 IST: Corrected Times of India event-website proposal sent 23 Oct to suryanshu.vyas@timesofindia.com, Gmail ID 1a168627f4edabf1. Earlier typo address timesoindia.com had temporary delivery delay, not a permanent bounce. No WHA prospect replies, opt-outs, or meetings found in checked inbox/label. No additional new outreach sent. Five industrial final follow-ups remain blocked and NOT SENT. Historical nine-lead workbook unavailable; research contacts not verified."
 }
