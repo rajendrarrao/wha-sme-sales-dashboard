@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T16:55:50+05:30",
+  "updated_at": "2026-10-26T09:04:08+05:30",
   "records": [
     {
       "date": "2026-10-13",
@@ -26,7 +26,7 @@
         }
       ],
       "owner_action": "Final follow-up blocked 23 Oct; manual review before any additional contact.",
-      "last_checked": "2026-10-23T15:04:36+05:30"
+      "last_checked": "2026-10-26T09:04:08+05:30"
     },
     {
       "date": "2026-10-13",
@@ -53,7 +53,7 @@
         }
       ],
       "owner_action": "Final follow-up blocked 23 Oct; manual review before any additional contact.",
-      "last_checked": "2026-10-23T15:04:36+05:30"
+      "last_checked": "2026-10-26T09:04:08+05:30"
     },
     {
       "date": "2026-10-13",
@@ -80,7 +80,7 @@
         }
       ],
       "owner_action": "Final follow-up blocked 23 Oct; manual review before any additional contact.",
-      "last_checked": "2026-10-23T15:04:36+05:30"
+      "last_checked": "2026-10-26T09:04:08+05:30"
     },
     {
       "date": "2026-10-13",
@@ -107,7 +107,7 @@
         }
       ],
       "owner_action": "Final follow-up blocked 23 Oct; manual review before any additional contact.",
-      "last_checked": "2026-10-23T15:04:36+05:30"
+      "last_checked": "2026-10-26T09:04:08+05:30"
     },
     {
       "date": "2026-10-13",
@@ -134,7 +134,7 @@
         }
       ],
       "owner_action": "Final follow-up blocked 23 Oct; manual review before any additional contact.",
-      "last_checked": "2026-10-23T15:04:36+05:30"
+      "last_checked": "2026-10-26T09:04:08+05:30"
     },
     {
       "date": "2026-10-11",
@@ -469,7 +469,7 @@
       "owner_action": "Review blocked first follow-up and decision-maker eligibility.",
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "last_checked": "2026-10-23T15:04:36+05:30"
+      "last_checked": "2026-10-26T09:04:08+05:30"
     },
     {
       "date": "2026-10-15",
@@ -482,7 +482,7 @@
       "next_action": "Excluded interior-design segment. First-touch previously sent; no further outreach.",
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "last_checked": "2026-10-23T15:04:36+05:30"
+      "last_checked": "2026-10-26T09:04:08+05:30"
     },
     {
       "date": "2026-10-15",
@@ -496,7 +496,7 @@
       "owner_action": "Review blocked first follow-up.",
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "last_checked": "2026-10-23T15:04:36+05:30"
+      "last_checked": "2026-10-26T09:04:08+05:30"
     },
     {
       "date": "2026-10-15",
@@ -510,7 +510,7 @@
       "owner_action": "Review blocked first follow-up.",
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "last_checked": "2026-10-23T15:04:36+05:30"
+      "last_checked": "2026-10-26T09:04:08+05:30"
     },
     {
       "date": "2026-10-19",
@@ -523,7 +523,7 @@
       "next_action": "Hold follow-up pending education-sector exclusion check.",
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "last_checked": "2026-10-23T15:04:36+05:30"
+      "last_checked": "2026-10-26T09:04:08+05:30"
     },
     {
       "date": "2026-10-22",
@@ -536,7 +536,7 @@
       "next_action": "First follow-up 27 Oct after fresh reply/bounce/opt-out check.",
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "last_checked": "2026-10-23T15:04:36+05:30"
+      "last_checked": "2026-10-26T09:04:08+05:30"
     },
     {
       "date": "2026-10-23",
@@ -546,12 +546,12 @@
       "source": "Published agency requirement",
       "stage": "Sent",
       "gmail_message_id": "1a168627f4edabf1",
-      "next_action": "Corrected recipient Gmail-confirmed SENT 23 Oct. Check replies, bounce and opt-outs before first follow-up due Wed 28 Oct. Do not resend to typo address.",
+      "next_action": "Suppress typo address permanently. Corrected address first follow-up due 28 Oct after fresh reply/bounce/opt-out checks. No new send on 26 Oct.",
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "last_checked": "2026-10-23T16:55:50+05:30",
-      "delivery_status": "Corrected address Gmail SENT; delivery not independently confirmed. Original misspelled domain had temporary delivery delay.",
-      "delivery_notice_message_id": "1a16817a672b056d",
+      "last_checked": "2026-10-26T09:04:08+05:30",
+      "delivery_status": "Original typo timesoindia.com: PERMANENT delivery failure confirmed 25 Oct; corrected timesofindia.com: Gmail SENT 23 Oct, delivery unconfirmed and no bounce detected as of 26 Oct 09:04 IST.",
+      "delivery_notice_message_id": "1a172564acceadd0",
       "followup_due": "2026-10-28",
       "domain_verification": "User corrected email to timesofindia.com and explicitly requested resend; Gmail SENT verified 23 Oct.",
       "email": "suryanshu.vyas@timesofindia.com",
@@ -560,7 +560,8 @@
         "email": "suryanshu.vyas@timesoindia.com",
         "gmail_message_id": "1a162b9a400e4c86",
         "date": "2026-10-22",
-        "status": "Temporary delivery delay 23 Oct; do not retry"
+        "status": "PERMANENT DELIVERY FAILURE confirmed 2026-10-25; suppress permanently",
+        "failure_message_id": "1a172564acceadd0"
       }
     },
     {
@@ -624,5 +625,5 @@
       "last_checked": "2026-10-23T10:57:43+05:30"
     }
   ],
-  "reporting_note": "23 Oct 16:55 IST: Corrected Times of India event-website proposal sent 23 Oct to suryanshu.vyas@timesofindia.com, Gmail ID 1a168627f4edabf1. Earlier typo address timesoindia.com had temporary delivery delay, not a permanent bounce. No WHA prospect replies, opt-outs, or meetings found in checked inbox/label. No additional new outreach sent. Five industrial final follow-ups remain blocked and NOT SENT. Historical nine-lead workbook unavailable; research contacts not verified."
+  "reporting_note": "26 Oct 09:04 IST: WHA Gmail label and inbox checked; no prospect replies, opt-outs, or meetings detected. Permanent delivery failure received 25 Oct for misspelled Times of India address suryanshu.vyas@timesoindia.com (Gmail ID 1a172564acceadd0). Corrected address suryanshu.vyas@timesofindia.com remains Gmail SENT 23 Oct with no bounce detected; delivery not independently confirmed. No outreach sent this check. Five industrial final follow-ups remain blocked/NOT SENT; Shades, HTA and Nehlia first follow-ups blocked; Furbishy excluded. Historical nine-lead workbook unavailable."
 }
