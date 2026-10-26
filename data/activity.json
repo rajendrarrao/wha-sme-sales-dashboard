@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T10:04:30+05:30",
+  "updated_at": "2026-10-26T13:13:44+05:30",
   "records": [
     {
       "date": "2026-10-13",
@@ -26,7 +26,7 @@
         }
       ],
       "owner_action": "Final follow-up blocked 23 Oct; manual review before any additional contact.",
-      "last_checked": "2026-10-26T10:04:30+05:30"
+      "last_checked": "2026-10-26T13:13:44+05:30"
     },
     {
       "date": "2026-10-13",
@@ -53,7 +53,7 @@
         }
       ],
       "owner_action": "Final follow-up blocked 23 Oct; manual review before any additional contact.",
-      "last_checked": "2026-10-26T10:04:30+05:30"
+      "last_checked": "2026-10-26T13:13:44+05:30"
     },
     {
       "date": "2026-10-13",
@@ -80,7 +80,7 @@
         }
       ],
       "owner_action": "Final follow-up blocked 23 Oct; manual review before any additional contact.",
-      "last_checked": "2026-10-26T10:04:30+05:30"
+      "last_checked": "2026-10-26T13:13:44+05:30"
     },
     {
       "date": "2026-10-13",
@@ -107,7 +107,7 @@
         }
       ],
       "owner_action": "Final follow-up blocked 23 Oct; manual review before any additional contact.",
-      "last_checked": "2026-10-26T10:04:30+05:30"
+      "last_checked": "2026-10-26T13:13:44+05:30"
     },
     {
       "date": "2026-10-13",
@@ -134,7 +134,7 @@
         }
       ],
       "owner_action": "Final follow-up blocked 23 Oct; manual review before any additional contact.",
-      "last_checked": "2026-10-26T10:04:30+05:30"
+      "last_checked": "2026-10-26T13:13:44+05:30"
     },
     {
       "date": "2026-10-11",
@@ -469,7 +469,7 @@
       "owner_action": "Review blocked first follow-up and decision-maker eligibility.",
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "last_checked": "2026-10-26T10:04:30+05:30"
+      "last_checked": "2026-10-26T13:13:44+05:30"
     },
     {
       "date": "2026-10-15",
@@ -482,7 +482,7 @@
       "next_action": "Excluded interior-design segment. First-touch previously sent; no further outreach.",
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "last_checked": "2026-10-26T10:04:30+05:30"
+      "last_checked": "2026-10-26T13:13:44+05:30"
     },
     {
       "date": "2026-10-15",
@@ -496,7 +496,7 @@
       "owner_action": "Review blocked first follow-up.",
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "last_checked": "2026-10-26T10:04:30+05:30"
+      "last_checked": "2026-10-26T13:13:44+05:30"
     },
     {
       "date": "2026-10-15",
@@ -510,7 +510,7 @@
       "owner_action": "Review blocked first follow-up.",
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "last_checked": "2026-10-26T10:04:30+05:30"
+      "last_checked": "2026-10-26T13:13:44+05:30"
     },
     {
       "date": "2026-10-19",
@@ -523,7 +523,7 @@
       "next_action": "Hold follow-up pending education-sector exclusion check.",
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "last_checked": "2026-10-26T10:04:30+05:30"
+      "last_checked": "2026-10-26T13:13:44+05:30"
     },
     {
       "date": "2026-10-22",
@@ -536,7 +536,7 @@
       "next_action": "First follow-up 27 Oct after fresh reply/bounce/opt-out check.",
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "last_checked": "2026-10-26T10:04:30+05:30"
+      "last_checked": "2026-10-26T13:13:44+05:30"
     },
     {
       "date": "2026-10-23",
@@ -549,7 +549,7 @@
       "next_action": "Suppress typo address permanently. Corrected address first follow-up due 28 Oct after fresh reply/bounce/opt-out checks. No new send on 26 Oct.",
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "last_checked": "2026-10-26T10:04:30+05:30",
+      "last_checked": "2026-10-26T13:13:44+05:30",
       "delivery_status": "Original typo timesoindia.com: PERMANENT delivery failure confirmed 25 Oct; corrected timesofindia.com: Gmail SENT 23 Oct, delivery unconfirmed and no bounce detected as of 26 Oct 09:04 IST.",
       "delivery_notice_message_id": "1a172564acceadd0",
       "followup_due": "2026-10-28",
@@ -625,5 +625,5 @@
       "last_checked": "2026-10-23T10:57:43+05:30"
     }
   ],
-  "reporting_note": "26 Oct 10:04 IST: Gmail label, inbound, bounce notices and 11 original prospect threads checked. No new prospect replies, opt-outs, meetings, or sends. Permanent bounce on typo Times of India address already recorded; corrected address Gmail SENT only. Blocked follow-ups remain unsent. Historical nine-lead workbook inaccessible."
+  "reporting_note": "26 Oct 13:13 IST: Checked Gmail WHA SME Outreach, inbox, all-mail, bounce notices and seven priority senders. No new prospect replies, opt-outs, meetings or Gmail-confirmed sends. Existing permanent bounce for mistyped Times of India domain unchanged; corrected address remains SENT only. Blocked follow-ups not sent; nine-lead workbook still inaccessible."
 }
