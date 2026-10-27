@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T10:01:10+05:30",
+  "updated_at": "2026-10-27T11:00:17+05:30",
   "records": [
     {
       "date": "2026-10-13",
@@ -26,7 +26,7 @@
         }
       ],
       "owner_action": "Final follow-up blocked 23 Oct; manual review before any additional contact.",
-      "last_checked": "2026-10-27T10:01:10+05:30"
+      "last_checked": "2026-10-27T11:00:17+05:30"
     },
     {
       "date": "2026-10-13",
@@ -53,7 +53,7 @@
         }
       ],
       "owner_action": "Final follow-up blocked 23 Oct; manual review before any additional contact.",
-      "last_checked": "2026-10-27T10:01:10+05:30"
+      "last_checked": "2026-10-27T11:00:17+05:30"
     },
     {
       "date": "2026-10-13",
@@ -80,7 +80,7 @@
         }
       ],
       "owner_action": "Final follow-up blocked 23 Oct; manual review before any additional contact.",
-      "last_checked": "2026-10-27T10:01:10+05:30"
+      "last_checked": "2026-10-27T11:00:17+05:30"
     },
     {
       "date": "2026-10-13",
@@ -107,7 +107,7 @@
         }
       ],
       "owner_action": "Final follow-up blocked 23 Oct; manual review before any additional contact.",
-      "last_checked": "2026-10-27T10:01:10+05:30"
+      "last_checked": "2026-10-27T11:00:17+05:30"
     },
     {
       "date": "2026-10-13",
@@ -134,7 +134,7 @@
         }
       ],
       "owner_action": "Final follow-up blocked 23 Oct; manual review before any additional contact.",
-      "last_checked": "2026-10-27T10:01:10+05:30"
+      "last_checked": "2026-10-27T11:00:17+05:30"
     },
     {
       "date": "2026-10-11",
@@ -148,7 +148,8 @@
       "qualified": true,
       "new_prospect": true,
       "next_action": "Await company website and RFP details; submit company profile and relevant case studies; confirm remote delivery acceptance",
-      "evidence_url": "https://www.linkedin.com/in/veena-wadhwani-21842b192"
+      "evidence_url": "https://www.linkedin.com/in/veena-wadhwani-21842b192",
+      "last_checked": "2026-10-27T11:00:17+05:30"
     },
     {
       "date": "2026-10-11",
@@ -162,7 +163,8 @@
       "qualified": true,
       "new_prospect": true,
       "next_action": "Check reply; clarify whether remote pan-India agency meets Delhi/NCR-only requirement",
-      "evidence_url": ""
+      "evidence_url": "",
+      "last_checked": "2026-10-27T11:00:17+05:30"
     },
     {
       "date": "2026-10-11",
@@ -176,7 +178,8 @@
       "qualified": false,
       "new_prospect": true,
       "next_action": "Check reply; share relevant B2B case studies; clarify security-sector experience; ask for 15-minute call",
-      "evidence_url": "https://protexivesecurity.com/contact-us.html"
+      "evidence_url": "https://protexivesecurity.com/contact-us.html",
+      "last_checked": "2026-10-27T11:00:17+05:30"
     },
     {
       "date": "2026-10-09",
@@ -191,7 +194,8 @@
       "new_prospect": true,
       "next_action": "Hard bounce 9 Oct: address not found. Do not resend; verify replacement contact.",
       "evidence_url": "https://www.bendnfab.com/index.php/home/contact",
-      "bounced": true
+      "bounced": true,
+      "last_checked": "2026-10-27T11:00:17+05:30"
     },
     {
       "date": "2026-10-08",
@@ -205,7 +209,8 @@
       "qualified": false,
       "new_prospect": true,
       "next_action": "Monitor reply; identify named marketing decision-maker",
-      "evidence_url": ""
+      "evidence_url": "",
+      "last_checked": "2026-10-27T11:00:17+05:30"
     },
     {
       "date": "2026-10-08",
@@ -227,7 +232,8 @@
           "email": "thakkardevanshi82@gmail.com",
           "reply_confirmed": false
         }
-      ]
+      ],
+      "last_checked": "2026-10-27T11:00:17+05:30"
     },
     {
       "date": "2026-10-07",
@@ -239,7 +245,8 @@
       "gmail_message_id": "1a1153a82b0065b5",
       "researched": true,
       "qualified": true,
-      "next_action": "Follow up after appropriate interval"
+      "next_action": "Follow up after appropriate interval",
+      "last_checked": "2026-10-27T11:00:17+05:30"
     },
     {
       "date": "2026-10-07",
@@ -251,7 +258,8 @@
       "gmail_message_id": "1a115db1902947b3",
       "researched": true,
       "qualified": false,
-      "next_action": "Verify exact buyer before counting qualified"
+      "next_action": "Verify exact buyer before counting qualified",
+      "last_checked": "2026-10-27T11:00:17+05:30"
     },
     {
       "date": "2026-10-07",
@@ -263,7 +271,8 @@
       "gmail_message_id": "1a115db358db27b5",
       "researched": true,
       "qualified": false,
-      "next_action": "Verify exact buyer before counting qualified"
+      "next_action": "Verify exact buyer before counting qualified",
+      "last_checked": "2026-10-27T11:00:17+05:30"
     },
     {
       "date": "2026-10-08",
@@ -285,7 +294,8 @@
           "email": "ripul@babyorgano.com",
           "reply_confirmed": false
         }
-      ]
+      ],
+      "last_checked": "2026-10-27T11:00:17+05:30"
     },
     {
       "date": "2026-10-08",
@@ -307,7 +317,8 @@
           "email": "dm@shreejiventures.in",
           "reply_confirmed": false
         }
-      ]
+      ],
+      "last_checked": "2026-10-27T11:00:17+05:30"
     },
     {
       "date": "2026-10-08",
@@ -329,7 +340,8 @@
           "email": "info@propertyserch.com",
           "reply_confirmed": false
         }
-      ]
+      ],
+      "last_checked": "2026-10-27T11:00:17+05:30"
     },
     {
       "date": "2026-10-07",
@@ -343,7 +355,8 @@
       "qualified": false,
       "new_prospect": true,
       "next_action": "Identify named decision maker",
-      "evidence_url": ""
+      "evidence_url": "",
+      "last_checked": "2026-10-27T11:00:17+05:30"
     },
     {
       "date": "2026-10-07",
@@ -357,7 +370,8 @@
       "qualified": false,
       "new_prospect": true,
       "next_action": "Identify named decision maker",
-      "evidence_url": ""
+      "evidence_url": "",
+      "last_checked": "2026-10-27T11:00:17+05:30"
     },
     {
       "date": "2026-10-07",
@@ -371,7 +385,8 @@
       "qualified": false,
       "new_prospect": true,
       "next_action": "Identify marketing buyer; duplicate send exists; do not resend",
-      "evidence_url": ""
+      "evidence_url": "",
+      "last_checked": "2026-10-27T11:00:17+05:30"
     },
     {
       "date": "2026-10-07",
@@ -385,7 +400,8 @@
       "qualified": false,
       "new_prospect": true,
       "next_action": "Identify decision maker",
-      "evidence_url": ""
+      "evidence_url": "",
+      "last_checked": "2026-10-27T11:00:17+05:30"
     },
     {
       "date": "2026-10-07",
@@ -399,7 +415,8 @@
       "qualified": false,
       "new_prospect": true,
       "next_action": "Identify decision maker",
-      "evidence_url": ""
+      "evidence_url": "",
+      "last_checked": "2026-10-27T11:00:17+05:30"
     },
     {
       "date": "2026-10-07",
@@ -413,7 +430,8 @@
       "qualified": false,
       "new_prospect": true,
       "next_action": "Identify decision maker",
-      "evidence_url": ""
+      "evidence_url": "",
+      "last_checked": "2026-10-27T11:00:17+05:30"
     },
     {
       "date": "2026-10-07",
@@ -427,7 +445,8 @@
       "qualified": false,
       "new_prospect": true,
       "next_action": "Identify decision maker",
-      "evidence_url": ""
+      "evidence_url": "",
+      "last_checked": "2026-10-27T11:00:17+05:30"
     },
     {
       "date": "2026-10-07",
@@ -441,7 +460,8 @@
       "qualified": false,
       "new_prospect": true,
       "next_action": "Identify decision maker",
-      "evidence_url": ""
+      "evidence_url": "",
+      "last_checked": "2026-10-27T11:00:17+05:30"
     },
     {
       "date": "2026-10-07",
@@ -455,7 +475,8 @@
       "qualified": false,
       "new_prospect": true,
       "next_action": "Identify decision maker",
-      "evidence_url": ""
+      "evidence_url": "",
+      "last_checked": "2026-10-27T11:00:17+05:30"
     },
     {
       "date": "2026-10-15",
@@ -469,7 +490,7 @@
       "owner_action": "Review blocked first follow-up and decision-maker eligibility.",
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "last_checked": "2026-10-27T10:01:10+05:30"
+      "last_checked": "2026-10-27T11:00:17+05:30"
     },
     {
       "date": "2026-10-15",
@@ -482,7 +503,7 @@
       "next_action": "Excluded interior-design segment. First-touch previously sent; no further outreach.",
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "last_checked": "2026-10-27T10:01:10+05:30"
+      "last_checked": "2026-10-27T11:00:17+05:30"
     },
     {
       "date": "2026-10-15",
@@ -496,7 +517,7 @@
       "owner_action": "Review blocked first follow-up.",
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "last_checked": "2026-10-27T10:01:10+05:30"
+      "last_checked": "2026-10-27T11:00:17+05:30"
     },
     {
       "date": "2026-10-15",
@@ -510,7 +531,7 @@
       "owner_action": "Review blocked first follow-up.",
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "last_checked": "2026-10-27T10:01:10+05:30"
+      "last_checked": "2026-10-27T11:00:17+05:30"
     },
     {
       "date": "2026-10-19",
@@ -523,7 +544,7 @@
       "next_action": "Hold follow-up pending education-sector exclusion check.",
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "last_checked": "2026-10-26T14:30:51+05:30"
+      "last_checked": "2026-10-27T11:00:17+05:30"
     },
     {
       "date": "2026-10-22",
@@ -536,7 +557,7 @@
       "next_action": "First follow-up Gmail SENT 27 Oct; check replies, bounces and opt-outs. Final follow-up due 3 Nov 2026 only if still eligible.",
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "last_checked": "2026-10-27T10:01:10+05:30",
+      "last_checked": "2026-10-27T11:00:17+05:30",
       "followups": [
         {
           "date": "2026-10-27",
@@ -557,7 +578,7 @@
       "next_action": "Suppress typo address permanently. Corrected address first follow-up due 28 Oct after fresh reply/bounce/opt-out checks. No new send on 26 Oct.",
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "last_checked": "2026-10-27T10:01:10+05:30",
+      "last_checked": "2026-10-27T11:00:17+05:30",
       "delivery_status": "Original typo timesoindia.com: PERMANENT delivery failure confirmed 25 Oct; corrected timesofindia.com: Gmail SENT 23 Oct, delivery unconfirmed and no bounce detected as of 26 Oct 09:04 IST.",
       "delivery_notice_message_id": "1a172564acceadd0",
       "followup_due": "2026-10-28",
@@ -582,7 +603,7 @@
       "next_action": "Verify attributable direct working email, buyer fit, duplicates and opt-outs before first touch.",
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "last_checked": "2026-10-23T10:57:43+05:30"
+      "last_checked": "2026-10-27T11:00:17+05:30"
     },
     {
       "date": "2026-10-21",
@@ -594,7 +615,7 @@
       "next_action": "Verify marketing buyer, attributable working email and opt-outs before first touch.",
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "last_checked": "2026-10-23T10:57:43+05:30"
+      "last_checked": "2026-10-27T11:00:17+05:30"
     },
     {
       "date": "2026-10-21",
@@ -606,7 +627,7 @@
       "next_action": "Verify company fit and decision-maker direct email.",
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "last_checked": "2026-10-23T10:57:43+05:30"
+      "last_checked": "2026-10-27T11:00:17+05:30"
     },
     {
       "date": "2026-10-21",
@@ -618,7 +639,7 @@
       "next_action": "Verify marketing procurement and decision-maker email.",
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "last_checked": "2026-10-23T10:57:43+05:30"
+      "last_checked": "2026-10-27T11:00:17+05:30"
     },
     {
       "date": "2026-10-21",
@@ -630,7 +651,7 @@
       "next_action": "Verify company fit, decision-maker and working email.",
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "last_checked": "2026-10-23T10:57:43+05:30"
+      "last_checked": "2026-10-27T11:00:17+05:30"
     },
     {
       "date": "2026-10-26",
@@ -650,7 +671,7 @@
       "next_action": "No reply, bounce or opt-out found as of 27 Oct morning; first follow-up due 29 Oct 2026 if still eligible.",
       "followup_due": "2026-10-29",
       "followups": [],
-      "last_checked": "2026-10-27T10:01:10+05:30"
+      "last_checked": "2026-10-27T11:00:17+05:30"
     },
     {
       "date": "2026-10-26",
@@ -670,7 +691,7 @@
       "next_action": "No reply, bounce or opt-out found as of 27 Oct morning; first follow-up due 29 Oct 2026 if still eligible.",
       "followup_due": "2026-10-29",
       "followups": [],
-      "last_checked": "2026-10-27T10:01:10+05:30"
+      "last_checked": "2026-10-27T11:00:17+05:30"
     },
     {
       "date": "2026-10-26",
@@ -690,7 +711,7 @@
       "next_action": "No reply, bounce or opt-out found as of 27 Oct morning; first follow-up due 29 Oct 2026 if still eligible.",
       "followup_due": "2026-10-29",
       "followups": [],
-      "last_checked": "2026-10-27T10:01:10+05:30"
+      "last_checked": "2026-10-27T11:00:17+05:30"
     },
     {
       "date": "2026-10-26",
@@ -710,7 +731,7 @@
       "next_action": "No reply, bounce or opt-out found as of 27 Oct morning; first follow-up due 29 Oct 2026 if still eligible.",
       "followup_due": "2026-10-29",
       "followups": [],
-      "last_checked": "2026-10-27T10:01:10+05:30"
+      "last_checked": "2026-10-27T11:00:17+05:30"
     },
     {
       "date": "2026-10-26",
@@ -730,9 +751,9 @@
       "next_action": "No reply, bounce or opt-out found as of 27 Oct morning; first follow-up due 29 Oct 2026 if still eligible.",
       "followup_due": "2026-10-29",
       "followups": [],
-      "last_checked": "2026-10-27T10:01:10+05:30"
+      "last_checked": "2026-10-27T11:00:17+05:30"
     }
   ],
-  "reporting_note": "26 Oct 14:30 IST: Rechecked WHA SME Outreach label, inbound inbox, five industrial contacts, other priority prospect senders, delivery notifications and opt-out keywords. No new prospect replies, opt-outs, confirmed meetings or Gmail-confirmed sends. Existing permanent bounce for misspelled Times of India domain unchanged; corrected address remains Gmail SENT only. Industrial and overdue first follow-ups remain blocked/held; no automated retries. Historical nine-lead workbook not accessible in Drive or Library.",
+  "reporting_note": "26 Oct 14:30 IST: Rechecked WHA SME Outreach label, inbound inbox, five industrial contacts, other priority prospect senders, delivery notifications and opt-out keywords. No new prospect replies, opt-outs, confirmed meetings or Gmail-confirmed sends. Existing permanent bounce for misspelled Times of India domain unchanged; corrected address remains Gmail SENT only. Industrial and overdue first follow-ups remain blocked/held; no automated retries. Historical nine-lead workbook not accessible in Drive or Library. | 27 Oct 11:00 IST: Gmail outreach label, inbox, delivery notifications and priority prospect senders reviewed. No new replies, bounces, opt-outs or confirmed meetings; no sends in this check. Old typo-domain bounce remains suppressed.",
   "monitoring_note": "27 Oct 2026 10:01 IST: checked WHA Gmail label, inbox, delivery/opt-out search and 13 prospect threads; no new prospect replies, bounces, opt-outs or confirmed meetings. No new sends this check. Historical workbook unavailable. Website contact-form activation notice flagged separately; test submission is not a qualified lead."
 }
