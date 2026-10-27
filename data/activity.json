@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T14:01:20+05:30",
+  "updated_at": "2026-10-27T15:00:00+05:30",
   "records": [
     {
       "date": "2026-10-13",
@@ -26,7 +26,7 @@
         }
       ],
       "owner_action": "Final follow-up blocked 23 Oct; manual review before any additional contact.",
-      "last_checked": "2026-10-27T14:01:20+05:30"
+      "last_checked": "2026-10-27T15:00:00+05:30"
     },
     {
       "date": "2026-10-13",
@@ -53,7 +53,7 @@
         }
       ],
       "owner_action": "Final follow-up blocked 23 Oct; manual review before any additional contact.",
-      "last_checked": "2026-10-27T14:01:20+05:30"
+      "last_checked": "2026-10-27T15:00:00+05:30"
     },
     {
       "date": "2026-10-13",
@@ -80,7 +80,7 @@
         }
       ],
       "owner_action": "Final follow-up blocked 23 Oct; manual review before any additional contact.",
-      "last_checked": "2026-10-27T14:01:20+05:30"
+      "last_checked": "2026-10-27T15:00:00+05:30"
     },
     {
       "date": "2026-10-13",
@@ -107,7 +107,7 @@
         }
       ],
       "owner_action": "Final follow-up blocked 23 Oct; manual review before any additional contact.",
-      "last_checked": "2026-10-27T14:01:20+05:30"
+      "last_checked": "2026-10-27T15:00:00+05:30"
     },
     {
       "date": "2026-10-13",
@@ -134,7 +134,7 @@
         }
       ],
       "owner_action": "Final follow-up blocked 23 Oct; manual review before any additional contact.",
-      "last_checked": "2026-10-27T14:01:20+05:30"
+      "last_checked": "2026-10-27T15:00:00+05:30"
     },
     {
       "date": "2026-10-11",
@@ -668,10 +668,10 @@
       "new_prospect": true,
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "next_action": "No reply, bounce or opt-out found as of 27 Oct 14:01 IST; first follow-up due 29 Oct 2026 if still eligible. No follow-up sent.",
+      "next_action": "No reply, bounce or opt-out found as of 27 Oct 15:00 IST; first follow-up due 29 Oct if still eligible. No follow-up sent.",
       "followup_due": "2026-10-29",
       "followups": [],
-      "last_checked": "2026-10-27T14:01:20+05:30"
+      "last_checked": "2026-10-27T15:00:00+05:30"
     },
     {
       "date": "2026-10-26",
@@ -688,10 +688,10 @@
       "new_prospect": true,
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "next_action": "No reply, bounce or opt-out found as of 27 Oct 14:01 IST; first follow-up due 29 Oct 2026 if still eligible. No follow-up sent.",
+      "next_action": "No reply, bounce or opt-out found as of 27 Oct 15:00 IST; first follow-up due 29 Oct if still eligible. No follow-up sent.",
       "followup_due": "2026-10-29",
       "followups": [],
-      "last_checked": "2026-10-27T14:01:20+05:30"
+      "last_checked": "2026-10-27T15:00:00+05:30"
     },
     {
       "date": "2026-10-26",
@@ -708,10 +708,10 @@
       "new_prospect": true,
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "next_action": "No reply, bounce or opt-out found as of 27 Oct 14:01 IST; first follow-up due 29 Oct 2026 if still eligible. No follow-up sent.",
+      "next_action": "No reply, bounce or opt-out found as of 27 Oct 15:00 IST; first follow-up due 29 Oct if still eligible. No follow-up sent.",
       "followup_due": "2026-10-29",
       "followups": [],
-      "last_checked": "2026-10-27T14:01:20+05:30"
+      "last_checked": "2026-10-27T15:00:00+05:30"
     },
     {
       "date": "2026-10-26",
@@ -728,10 +728,10 @@
       "new_prospect": true,
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "next_action": "No reply, bounce or opt-out found as of 27 Oct 14:01 IST; first follow-up due 29 Oct 2026 if still eligible. No follow-up sent.",
+      "next_action": "No reply, bounce or opt-out found as of 27 Oct 15:00 IST; first follow-up due 29 Oct if still eligible. No follow-up sent.",
       "followup_due": "2026-10-29",
       "followups": [],
-      "last_checked": "2026-10-27T14:01:20+05:30"
+      "last_checked": "2026-10-27T15:00:00+05:30"
     },
     {
       "date": "2026-10-26",
@@ -748,10 +748,10 @@
       "new_prospect": true,
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "next_action": "No reply, bounce or opt-out found as of 27 Oct 14:01 IST; first follow-up due 29 Oct 2026 if still eligible. No follow-up sent.",
+      "next_action": "No reply, bounce or opt-out found as of 27 Oct 15:00 IST; first follow-up due 29 Oct if still eligible. No follow-up sent.",
       "followup_due": "2026-10-29",
       "followups": [],
-      "last_checked": "2026-10-27T14:01:20+05:30"
+      "last_checked": "2026-10-27T15:00:00+05:30"
     },
     {
       "date": "2026-10-27",
@@ -769,6 +769,6 @@
       "last_checked": "2026-10-27T14:01:20+05:30"
     }
   ],
-  "reporting_note": "27 Oct 2026 14:01 IST: Gmail WHA SME Outreach, inbound, 16 prospect threads, bounce and opt-out searches checked. No new prospect replies, bounces, opt-outs, confirmed meetings or sends. Two U-Wah form submissions verified as self/test entries, excluded from qualified leads. Globe Overseas search found multiple similarly named firms but no verified marketing decision-maker or work email; no send. Times of India follow-up due 28 Oct and five 26 Oct first-touch follow-ups due 29 Oct subject to eligibility. Blocked follow-ups remain manual review. Historical nine-lead workbook unavailable.",
+  "reporting_note": "27 Oct 2026 15:00 IST: Gmail WHA SME Outreach label, inbound, bounce and opt-out searches, and 10 priority original threads checked. No new prospect replies, bounces, opt-outs or confirmed meetings. No emails sent in this check. 27 Oct Sanchit follow-up already Gmail-confirmed and logged; no duplicate. Times original typo permanently suppressed; corrected contact due eligibility check 28 Oct. Five 26 Oct first touches due 29 Oct subject to eligibility. Industrial final follow-up attempts previously blocked and NOT SENT. Furbishy excluded. Globe Overseas identity/buyer unresolved. Historical nine-lead workbook not found in accessible Drive, Library or Gmail.",
   "monitoring_note": "27 Oct 2026 10:01 IST: checked WHA Gmail label, inbox, delivery/opt-out search and 13 prospect threads; no new prospect replies, bounces, opt-outs or confirmed meetings. No new sends this check. Historical workbook unavailable. Website contact-form activation notice flagged separately; test submission is not a qualified lead."
 }
