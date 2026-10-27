@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T16:00:00+05:30",
+  "updated_at": "2026-10-27T17:00:00+05:30",
   "records": [
     {
       "date": "2026-10-13",
@@ -26,7 +26,7 @@
         }
       ],
       "owner_action": "Final follow-up blocked 23 Oct; manual review before any additional contact.",
-      "last_checked": "2026-10-27T16:00:00+05:30"
+      "last_checked": "2026-10-27T17:00:00+05:30"
     },
     {
       "date": "2026-10-13",
@@ -53,7 +53,7 @@
         }
       ],
       "owner_action": "Final follow-up blocked 23 Oct; manual review before any additional contact.",
-      "last_checked": "2026-10-27T16:00:00+05:30"
+      "last_checked": "2026-10-27T17:00:00+05:30"
     },
     {
       "date": "2026-10-13",
@@ -80,7 +80,7 @@
         }
       ],
       "owner_action": "Final follow-up blocked 23 Oct; manual review before any additional contact.",
-      "last_checked": "2026-10-27T16:00:00+05:30"
+      "last_checked": "2026-10-27T17:00:00+05:30"
     },
     {
       "date": "2026-10-13",
@@ -107,7 +107,7 @@
         }
       ],
       "owner_action": "Final follow-up blocked 23 Oct; manual review before any additional contact.",
-      "last_checked": "2026-10-27T16:00:00+05:30"
+      "last_checked": "2026-10-27T17:00:00+05:30"
     },
     {
       "date": "2026-10-13",
@@ -134,7 +134,7 @@
         }
       ],
       "owner_action": "Final follow-up blocked 23 Oct; manual review before any additional contact.",
-      "last_checked": "2026-10-27T16:00:00+05:30"
+      "last_checked": "2026-10-27T17:00:00+05:30"
     },
     {
       "date": "2026-10-11",
@@ -490,7 +490,7 @@
       "owner_action": "Review blocked first follow-up and decision-maker eligibility.",
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "last_checked": "2026-10-27T16:00:00+05:30"
+      "last_checked": "2026-10-27T17:00:00+05:30"
     },
     {
       "date": "2026-10-15",
@@ -503,7 +503,7 @@
       "next_action": "Excluded interior-design segment. First-touch previously sent; no further outreach.",
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "last_checked": "2026-10-27T16:00:00+05:30"
+      "last_checked": "2026-10-27T17:00:00+05:30"
     },
     {
       "date": "2026-10-15",
@@ -517,7 +517,7 @@
       "owner_action": "Review blocked first follow-up.",
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "last_checked": "2026-10-27T16:00:00+05:30"
+      "last_checked": "2026-10-27T17:00:00+05:30"
     },
     {
       "date": "2026-10-15",
@@ -531,7 +531,7 @@
       "owner_action": "Review blocked first follow-up.",
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "last_checked": "2026-10-27T16:00:00+05:30"
+      "last_checked": "2026-10-27T17:00:00+05:30"
     },
     {
       "date": "2026-10-19",
@@ -544,7 +544,7 @@
       "next_action": "Hold follow-up pending education-sector exclusion check.",
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "last_checked": "2026-10-27T16:00:00+05:30"
+      "last_checked": "2026-10-27T17:00:00+05:30"
     },
     {
       "date": "2026-10-22",
@@ -554,10 +554,10 @@
       "source": "Published agency requirement",
       "stage": "Sent",
       "gmail_message_id": "1a162b7f4eb86ce6",
-      "next_action": "First follow-up Gmail SENT 27 Oct; check replies, bounces and opt-outs. Final follow-up due 3 Nov 2026 only if still eligible.",
+      "next_action": "First follow-up Gmail SENT 27 Oct; no reply, bounce or opt-out found by 17:00 IST. Final follow-up due 3 Nov 2026 only if still eligible.",
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "last_checked": "2026-10-27T16:00:00+05:30",
+      "last_checked": "2026-10-27T17:00:00+05:30",
       "followups": [
         {
           "date": "2026-10-27",
@@ -575,10 +575,10 @@
       "source": "Published agency requirement",
       "stage": "Sent",
       "gmail_message_id": "1a168627f4edabf1",
-      "next_action": "Suppress typo address permanently. Corrected address first follow-up due 28 Oct after fresh reply/bounce/opt-out checks. No new send on 26 Oct.",
+      "next_action": "Suppress typo address permanently. Corrected address first follow-up due 28 Oct after fresh reply/bounce/opt-out checks; no response as of 27 Oct 17:00 IST.",
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "last_checked": "2026-10-27T16:00:00+05:30",
+      "last_checked": "2026-10-27T17:00:00+05:30",
       "delivery_status": "Original typo timesoindia.com: PERMANENT delivery failure confirmed 25 Oct; corrected timesofindia.com: Gmail SENT 23 Oct, delivery unconfirmed and no bounce detected as of 26 Oct 09:04 IST.",
       "delivery_notice_message_id": "1a172564acceadd0",
       "followup_due": "2026-10-28",
@@ -668,10 +668,10 @@
       "new_prospect": true,
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "next_action": "No reply, bounce or opt-out found as of 27 Oct 16:00 IST; first follow-up due 29 Oct if still eligible. No follow-up sent.",
+      "next_action": "No reply, bounce or opt-out found as of 27 Oct 17:00 IST; first follow-up due 29 Oct if still eligible. No follow-up sent.",
       "followup_due": "2026-10-29",
       "followups": [],
-      "last_checked": "2026-10-27T16:00:00+05:30"
+      "last_checked": "2026-10-27T17:00:00+05:30"
     },
     {
       "date": "2026-10-26",
@@ -688,10 +688,10 @@
       "new_prospect": true,
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "next_action": "No reply, bounce or opt-out found as of 27 Oct 16:00 IST; first follow-up due 29 Oct if still eligible. No follow-up sent.",
+      "next_action": "No reply, bounce or opt-out found as of 27 Oct 17:00 IST; first follow-up due 29 Oct if still eligible. No follow-up sent.",
       "followup_due": "2026-10-29",
       "followups": [],
-      "last_checked": "2026-10-27T16:00:00+05:30"
+      "last_checked": "2026-10-27T17:00:00+05:30"
     },
     {
       "date": "2026-10-26",
@@ -708,10 +708,10 @@
       "new_prospect": true,
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "next_action": "No reply, bounce or opt-out found as of 27 Oct 16:00 IST; first follow-up due 29 Oct if still eligible. No follow-up sent.",
+      "next_action": "No reply, bounce or opt-out found as of 27 Oct 17:00 IST; first follow-up due 29 Oct if still eligible. No follow-up sent.",
       "followup_due": "2026-10-29",
       "followups": [],
-      "last_checked": "2026-10-27T16:00:00+05:30"
+      "last_checked": "2026-10-27T17:00:00+05:30"
     },
     {
       "date": "2026-10-26",
@@ -728,10 +728,10 @@
       "new_prospect": true,
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "next_action": "No reply, bounce or opt-out found as of 27 Oct 16:00 IST; first follow-up due 29 Oct if still eligible. No follow-up sent.",
+      "next_action": "No reply, bounce or opt-out found as of 27 Oct 17:00 IST; first follow-up due 29 Oct if still eligible. No follow-up sent.",
       "followup_due": "2026-10-29",
       "followups": [],
-      "last_checked": "2026-10-27T16:00:00+05:30"
+      "last_checked": "2026-10-27T17:00:00+05:30"
     },
     {
       "date": "2026-10-26",
@@ -748,10 +748,10 @@
       "new_prospect": true,
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "next_action": "No reply, bounce or opt-out found as of 27 Oct 16:00 IST; first follow-up due 29 Oct if still eligible. No follow-up sent.",
+      "next_action": "No reply, bounce or opt-out found as of 27 Oct 17:00 IST; first follow-up due 29 Oct if still eligible. No follow-up sent.",
       "followup_due": "2026-10-29",
       "followups": [],
-      "last_checked": "2026-10-27T16:00:00+05:30"
+      "last_checked": "2026-10-27T17:00:00+05:30"
     },
     {
       "date": "2026-10-27",
@@ -766,7 +766,7 @@
       "reply_confirmed": false,
       "meeting_confirmed": false,
       "next_action": "Find original workbook to establish exact Globe Overseas entity. Verify marketing decision-maker, attributable working email, fit, duplicates and opt-outs before any outreach.",
-      "last_checked": "2026-10-27T16:00:00+05:30"
+      "last_checked": "2026-10-27T17:00:00+05:30"
     }
   ],
   "reporting_note": "Monitoring checked 27 Oct 16:00 IST: no new replies, bounces, opt-outs, meetings or sends. Internal test form submission excluded. Blocked follow-ups remain manual review; next eligibility checks 28–29 Oct.",
