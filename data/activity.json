@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T14:59:00+05:30",
+  "updated_at": "2026-10-28T16:00:13+05:30",
   "records": [
     {
       "date": "2026-10-13",
@@ -26,7 +26,7 @@
         }
       ],
       "owner_action": "Final follow-up blocked 23 Oct; manual review before any additional contact.",
-      "last_checked": "2026-10-28T14:59:00+05:30"
+      "last_checked": "2026-10-28T16:00:13+05:30"
     },
     {
       "date": "2026-10-13",
@@ -53,7 +53,7 @@
         }
       ],
       "owner_action": "Final follow-up blocked 23 Oct; manual review before any additional contact.",
-      "last_checked": "2026-10-28T14:59:00+05:30"
+      "last_checked": "2026-10-28T16:00:13+05:30"
     },
     {
       "date": "2026-10-13",
@@ -80,7 +80,7 @@
         }
       ],
       "owner_action": "Final follow-up blocked 23 Oct; manual review before any additional contact.",
-      "last_checked": "2026-10-28T14:59:00+05:30"
+      "last_checked": "2026-10-28T16:00:13+05:30"
     },
     {
       "date": "2026-10-13",
@@ -107,7 +107,7 @@
         }
       ],
       "owner_action": "Final follow-up blocked 23 Oct; manual review before any additional contact.",
-      "last_checked": "2026-10-28T14:59:00+05:30"
+      "last_checked": "2026-10-28T16:00:13+05:30"
     },
     {
       "date": "2026-10-13",
@@ -134,7 +134,7 @@
         }
       ],
       "owner_action": "Final follow-up blocked 23 Oct; manual review before any additional contact.",
-      "last_checked": "2026-10-28T14:59:00+05:30"
+      "last_checked": "2026-10-28T16:00:13+05:30"
     },
     {
       "date": "2026-10-11",
@@ -490,7 +490,7 @@
       "owner_action": "Review blocked first follow-up and decision-maker eligibility.",
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "last_checked": "2026-10-28T14:59:00+05:30"
+      "last_checked": "2026-10-28T16:00:13+05:30"
     },
     {
       "date": "2026-10-15",
@@ -503,7 +503,7 @@
       "next_action": "Excluded interior-design segment. First-touch previously sent; no further outreach.",
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "last_checked": "2026-10-28T14:59:00+05:30"
+      "last_checked": "2026-10-28T16:00:13+05:30"
     },
     {
       "date": "2026-10-15",
@@ -517,7 +517,7 @@
       "owner_action": "Review blocked first follow-up.",
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "last_checked": "2026-10-28T14:59:00+05:30"
+      "last_checked": "2026-10-28T16:00:13+05:30"
     },
     {
       "date": "2026-10-15",
@@ -531,7 +531,7 @@
       "owner_action": "Review blocked first follow-up.",
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "last_checked": "2026-10-28T14:59:00+05:30"
+      "last_checked": "2026-10-28T16:00:13+05:30"
     },
     {
       "date": "2026-10-19",
@@ -544,7 +544,7 @@
       "next_action": "Hold follow-up pending education-sector exclusion check.",
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "last_checked": "2026-10-28T14:59:00+05:30"
+      "last_checked": "2026-10-28T16:00:13+05:30"
     },
     {
       "date": "2026-10-22",
@@ -557,7 +557,7 @@
       "next_action": "First follow-up Gmail SENT 27 Oct; no reply, bounce or opt-out found by 17:00 IST. Final follow-up due 3 Nov 2026 only if still eligible.",
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "last_checked": "2026-10-28T14:59:00+05:30",
+      "last_checked": "2026-10-28T16:00:13+05:30",
       "followups": [
         {
           "date": "2026-10-27",
@@ -578,7 +578,7 @@
       "next_action": "First follow-up Gmail SENT 28 Oct to corrected timesofindia.com recipient in original thread; final due 4 Nov after 5 business days, only if no reply/bounce/opt-out. Original typo address permanently suppressed.",
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "last_checked": "2026-10-28T14:59:00+05:30",
+      "last_checked": "2026-10-28T16:00:13+05:30",
       "delivery_status": "Original typo-domain address permanently bounced 25 Oct; corrected address original and first follow-up Gmail SENT; actual delivery unconfirmed, no corrected-address bounce detected as of 28 Oct morning.",
       "delivery_notice_message_id": "1a172564acceadd0",
       "followup_due": "2026-11-04",
@@ -682,7 +682,7 @@
       "next_action": "First follow-up eligibility check due 29 Oct after verifying original thread, new replies, bounces, DND/opt-outs; no premature send.",
       "followup_due": "2026-10-29",
       "followups": [],
-      "last_checked": "2026-10-28T14:59:00+05:30"
+      "last_checked": "2026-10-28T16:00:13+05:30"
     },
     {
       "date": "2026-10-26",
@@ -702,7 +702,7 @@
       "next_action": "First follow-up eligibility check due 29 Oct after verifying original thread, new replies, bounces, DND/opt-outs; no premature send.",
       "followup_due": "2026-10-29",
       "followups": [],
-      "last_checked": "2026-10-28T14:59:00+05:30"
+      "last_checked": "2026-10-28T16:00:13+05:30"
     },
     {
       "date": "2026-10-26",
@@ -722,7 +722,7 @@
       "next_action": "First follow-up eligibility check due 29 Oct after verifying original thread, new replies, bounces, DND/opt-outs; no premature send.",
       "followup_due": "2026-10-29",
       "followups": [],
-      "last_checked": "2026-10-28T14:59:00+05:30"
+      "last_checked": "2026-10-28T16:00:13+05:30"
     },
     {
       "date": "2026-10-26",
@@ -742,7 +742,7 @@
       "next_action": "First follow-up eligibility check due 29 Oct after verifying original thread, new replies, bounces, DND/opt-outs; no premature send.",
       "followup_due": "2026-10-29",
       "followups": [],
-      "last_checked": "2026-10-28T14:59:00+05:30"
+      "last_checked": "2026-10-28T16:00:13+05:30"
     },
     {
       "date": "2026-10-26",
@@ -762,7 +762,7 @@
       "next_action": "First follow-up eligibility check due 29 Oct after verifying original thread, new replies, bounces, DND/opt-outs; no premature send.",
       "followup_due": "2026-10-29",
       "followups": [],
-      "last_checked": "2026-10-28T14:59:00+05:30"
+      "last_checked": "2026-10-28T16:00:13+05:30"
     },
     {
       "date": "2026-10-27",
@@ -777,9 +777,9 @@
       "reply_confirmed": false,
       "meeting_confirmed": false,
       "next_action": "Find original workbook to establish exact Globe Overseas entity. Verify marketing decision-maker, attributable working email, fit, duplicates and opt-outs before any outreach.",
-      "last_checked": "2026-10-28T14:59:00+05:30"
+      "last_checked": "2026-10-28T16:00:13+05:30"
     }
   ],
-  "reporting_note": "2026-10-28 14:59 IST — Reviewed WHA SME Outreach Gmail label (50 retrieved messages), 33 inbox messages since 27 Oct, 17 original priority prospect threads, targeted prospect-reply searches, and recent bounce/DND/opt-out searches. No new prospect replies, delivery failures, opt-outs or confirmed meetings; no emails sent this check. Three Rohini Yard notifications were a job applicant, not a WHA sales enquiry. Five first touches from 26 Oct (Advancetech, Alkem MedTech, Kremoint, Aguapuro, Khetan) first-follow-up eligibility check 29 Oct, subject to fresh preflight. Times of India corrected-address first follow-up Gmail SENT 28 Oct; final eligible 4 Nov. Sanchit first follow-up Gmail SENT 27 Oct; final eligible 3 Nov. Five 13 Oct industrial finals blocked/manual review, not sent; Shades/HTA/Nehlia follow-ups blocked; Furbishy excluded; NexGen held for fit. Historical nine-lead workbook not located in accessible Drive; Globe Overseas exact entity and marketing buyer remain unverified. No send/reply/meeting totals changed.",
-  "monitoring_note": "2026-10-28 14:59 IST — Reviewed WHA SME Outreach Gmail label (50 retrieved messages), 33 inbox messages since 27 Oct, 17 original priority prospect threads, targeted prospect-reply searches, and recent bounce/DND/opt-out searches. No new prospect replies, delivery failures, opt-outs or confirmed meetings; no emails sent this check. Three Rohini Yard notifications were a job applicant, not a WHA sales enquiry. Five first touches from 26 Oct (Advancetech, Alkem MedTech, Kremoint, Aguapuro, Khetan) first-follow-up eligibility check 29 Oct, subject to fresh preflight. Times of India corrected-address first follow-up Gmail SENT 28 Oct; final eligible 4 Nov. Sanchit first follow-up Gmail SENT 27 Oct; final eligible 3 Nov. Five 13 Oct industrial finals blocked/manual review, not sent; Shades/HTA/Nehlia follow-ups blocked; Furbishy excluded; NexGen held for fit. Historical nine-lead workbook not located in accessible Drive; Globe Overseas exact entity and marketing buyer remain unverified. No send/reply/meeting totals changed."
+  "reporting_note": "2026-10-28 16:00 IST — Reviewed 17 original WHA prospect Gmail conversations (five 13 Oct industrial threads, Shades, Furbishy, HTA, Nehlia, NexGen, Sanchit, Times of India, five 26 Oct B2B prospects), 15 inbox messages dated 28 Oct, seven recent messages under WHA SME Outreach, and targeted delivery-failure/opt-out searches. No new prospect replies, bounces, opt-outs or confirmed meetings; no emails sent this check. The five industrial final follow-ups remain BLOCKED/NOT SENT pending manual review; Shades/HTA/Nehlia first follow-ups blocked; Furbishy excluded; NexGen fit hold. Five 26 Oct first touches due for follow-up eligibility check 29 Oct; Sanchit final eligible 3 Nov; corrected Times of India final eligible 4 Nov. Historical Brand & Marketing Dashboard - WHA.xlsm not located in accessible Drive/Library; Globe Overseas exact entity and marketing buyer unverified. No sent/reply/meeting totals changed.",
+  "monitoring_note": "2026-10-28 16:00 IST — Reviewed 17 original WHA prospect Gmail conversations (five 13 Oct industrial threads, Shades, Furbishy, HTA, Nehlia, NexGen, Sanchit, Times of India, five 26 Oct B2B prospects), 15 inbox messages dated 28 Oct, seven recent messages under WHA SME Outreach, and targeted delivery-failure/opt-out searches. No new prospect replies, bounces, opt-outs or confirmed meetings; no emails sent this check. The five industrial final follow-ups remain BLOCKED/NOT SENT pending manual review; Shades/HTA/Nehlia first follow-ups blocked; Furbishy excluded; NexGen fit hold. Five 26 Oct first touches due for follow-up eligibility check 29 Oct; Sanchit final eligible 3 Nov; corrected Times of India final eligible 4 Nov. Historical Brand & Marketing Dashboard - WHA.xlsm not located in accessible Drive/Library; Globe Overseas exact entity and marketing buyer unverified. No sent/reply/meeting totals changed."
 }
