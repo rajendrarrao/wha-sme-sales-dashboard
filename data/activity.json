@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T15:05:04+05:30",
+  "updated_at": "2026-10-29T16:05:00+05:30",
   "records": [
     {
       "date": "2026-10-13",
@@ -26,7 +26,7 @@
         }
       ],
       "owner_action": "Final follow-up blocked 23 Oct; manual review before any additional contact.",
-      "last_checked": "2026-10-29T15:05:04+05:30"
+      "last_checked": "2026-10-29T16:05:00+05:30"
     },
     {
       "date": "2026-10-13",
@@ -53,7 +53,7 @@
         }
       ],
       "owner_action": "Final follow-up blocked 23 Oct; manual review before any additional contact.",
-      "last_checked": "2026-10-29T15:05:04+05:30"
+      "last_checked": "2026-10-29T16:05:00+05:30"
     },
     {
       "date": "2026-10-13",
@@ -80,7 +80,7 @@
         }
       ],
       "owner_action": "Final follow-up blocked 23 Oct; manual review before any additional contact.",
-      "last_checked": "2026-10-29T15:05:04+05:30"
+      "last_checked": "2026-10-29T16:05:00+05:30"
     },
     {
       "date": "2026-10-13",
@@ -107,7 +107,7 @@
         }
       ],
       "owner_action": "Final follow-up blocked 23 Oct; manual review before any additional contact.",
-      "last_checked": "2026-10-29T15:05:04+05:30"
+      "last_checked": "2026-10-29T16:05:00+05:30"
     },
     {
       "date": "2026-10-13",
@@ -134,7 +134,7 @@
         }
       ],
       "owner_action": "Final follow-up blocked 23 Oct; manual review before any additional contact.",
-      "last_checked": "2026-10-29T15:05:04+05:30"
+      "last_checked": "2026-10-29T16:05:00+05:30"
     },
     {
       "date": "2026-10-11",
@@ -490,7 +490,7 @@
       "owner_action": "Review blocked first follow-up and decision-maker eligibility.",
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "last_checked": "2026-10-29T15:05:04+05:30"
+      "last_checked": "2026-10-29T16:05:00+05:30"
     },
     {
       "date": "2026-10-15",
@@ -503,7 +503,7 @@
       "next_action": "Excluded interior-design segment. First-touch previously sent; no further outreach.",
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "last_checked": "2026-10-29T15:05:04+05:30"
+      "last_checked": "2026-10-29T16:05:00+05:30"
     },
     {
       "date": "2026-10-15",
@@ -517,7 +517,7 @@
       "owner_action": "Review blocked first follow-up.",
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "last_checked": "2026-10-29T15:05:04+05:30"
+      "last_checked": "2026-10-29T16:05:00+05:30"
     },
     {
       "date": "2026-10-15",
@@ -531,7 +531,7 @@
       "owner_action": "Review blocked first follow-up.",
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "last_checked": "2026-10-29T15:05:04+05:30"
+      "last_checked": "2026-10-29T16:05:00+05:30"
     },
     {
       "date": "2026-10-19",
@@ -544,7 +544,7 @@
       "next_action": "Hold follow-up pending education-sector exclusion check.",
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "last_checked": "2026-10-29T15:05:04+05:30"
+      "last_checked": "2026-10-29T16:05:00+05:30"
     },
     {
       "date": "2026-10-22",
@@ -557,7 +557,7 @@
       "next_action": "First follow-up Gmail SENT 27 Oct; no reply, bounce or opt-out found by 17:00 IST. Final follow-up due 3 Nov 2026 only if still eligible.",
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "last_checked": "2026-10-29T15:05:04+05:30",
+      "last_checked": "2026-10-29T16:05:00+05:30",
       "followups": [
         {
           "date": "2026-10-27",
@@ -578,7 +578,7 @@
       "next_action": "First follow-up Gmail SENT 28 Oct to corrected timesofindia.com recipient in original thread; final due 4 Nov after 5 business days, only if no reply/bounce/opt-out. Original typo address permanently suppressed.",
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "last_checked": "2026-10-29T15:05:04+05:30",
+      "last_checked": "2026-10-29T16:05:00+05:30",
       "delivery_status": "Original typo-domain address permanently bounced 25 Oct; corrected address original and first follow-up Gmail SENT; actual delivery unconfirmed, no corrected-address bounce detected as of 28 Oct morning.",
       "delivery_notice_message_id": "1a172564acceadd0",
       "followup_due": "2026-11-04",
@@ -690,7 +690,7 @@
           "reply_confirmed": false
         }
       ],
-      "last_checked": "2026-10-29T15:05:04+05:30",
+      "last_checked": "2026-10-29T16:05:00+05:30",
       "first_followup_sent": "2026-10-29",
       "last_followup_message_id": "1a1870405997726e",
       "delivery_status": "Gmail SENT confirmed for first touch and first follow-up; recipient delivery not independently confirmed. No relevant bounce/opt-out found as of 29 Oct 15:05 IST."
@@ -721,7 +721,7 @@
           "reply_confirmed": false
         }
       ],
-      "last_checked": "2026-10-29T15:05:04+05:30",
+      "last_checked": "2026-10-29T16:05:00+05:30",
       "first_followup_sent": "2026-10-29",
       "last_followup_message_id": "1a1870420eabf088",
       "delivery_status": "Gmail SENT confirmed for first touch and first follow-up; recipient delivery not independently confirmed. No relevant bounce/opt-out found as of 29 Oct 15:05 IST."
@@ -752,7 +752,7 @@
           "reply_confirmed": false
         }
       ],
-      "last_checked": "2026-10-29T15:05:04+05:30",
+      "last_checked": "2026-10-29T16:05:00+05:30",
       "first_followup_sent": "2026-10-29",
       "last_followup_message_id": "1a1870429a204546",
       "delivery_status": "Gmail SENT confirmed for first touch and first follow-up; recipient delivery not independently confirmed. No relevant bounce/opt-out found as of 29 Oct 15:05 IST."
@@ -783,7 +783,7 @@
           "reply_confirmed": false
         }
       ],
-      "last_checked": "2026-10-29T15:05:04+05:30",
+      "last_checked": "2026-10-29T16:05:00+05:30",
       "first_followup_sent": "2026-10-29",
       "last_followup_message_id": "1a18704316b197e2",
       "delivery_status": "Gmail SENT confirmed for first touch and first follow-up; recipient delivery not independently confirmed. No relevant bounce/opt-out found as of 29 Oct 15:05 IST."
@@ -814,7 +814,7 @@
           "reply_confirmed": false
         }
       ],
-      "last_checked": "2026-10-29T15:05:04+05:30",
+      "last_checked": "2026-10-29T16:05:00+05:30",
       "first_followup_sent": "2026-10-29",
       "last_followup_message_id": "1a18704368ac1aea",
       "delivery_status": "Gmail SENT confirmed for first touch and first follow-up; recipient delivery not independently confirmed. No relevant bounce/opt-out found as of 29 Oct 15:05 IST."
@@ -832,9 +832,9 @@
       "reply_confirmed": false,
       "meeting_confirmed": false,
       "next_action": "Find original workbook to establish exact Globe Overseas entity. Verify marketing decision-maker, attributable working email, fit, duplicates and opt-outs before any outreach.",
-      "last_checked": "2026-10-29T15:05:04+05:30"
+      "last_checked": "2026-10-29T16:05:00+05:30"
     }
   ],
-  "reporting_note": "2026-10-29 15:05 IST — Checked recent inbox, WHA SME Outreach label, 17 priority prospect Gmail threads and exact recipient-address reply/duplicate searches; no new prospect replies, relevant delivery failures, DND/opt-outs or confirmed meetings before sending. FIVE personalized SEO first follow-ups Gmail SENT verified in original threads: Advancetech 1a1870405997726e, Alkem 1a1870420eabf088, Kremoint 1a1870429a204546, Aguapuro 1a18704316b197e2, Khetan 1a18704368ac1aea. Final eligibility 5 Nov, only after fresh checks. Five industrial finals remain blocked/manual review; Shades/HTA/Nehlia first follow-ups blocked; Furbishy excluded. Globe Overseas buyer unverified; historical nine-lead workbook unavailable.",
-  "monitoring_note": "2026-10-29 15:05 IST — Checked recent inbox, WHA SME Outreach label, 17 priority prospect Gmail threads and exact recipient-address reply/duplicate searches; no new prospect replies, relevant delivery failures, DND/opt-outs or confirmed meetings before sending. FIVE personalized SEO first follow-ups Gmail SENT verified in original threads: Advancetech 1a1870405997726e, Alkem 1a1870420eabf088, Kremoint 1a1870429a204546, Aguapuro 1a18704316b197e2, Khetan 1a18704368ac1aea. Final eligibility 5 Nov, only after fresh checks. Five industrial finals remain blocked/manual review; Shades/HTA/Nehlia first follow-ups blocked; Furbishy excluded. Globe Overseas buyer unverified; historical nine-lead workbook unavailable."
+  "reporting_note": "2026-10-29 16:05 IST — Checked WHA SME Outreach label (52 messages), today's inbox (7 messages), ten original/follow-up Gmail threads (five industrial + five 26 Oct B2B), exact-recipient incoming mail, bounce/opt-out searches, and Gmail SENT confirmation for five 29 Oct follow-ups. No new WHA prospect replies, relevant bounces, DND/opt-outs or meetings. No new sends this check. Five 29 Oct follow-ups remain Gmail SENT, recipient delivery unconfirmed; finals due 5 Nov subject to fresh checks. Industrial final attempts and Shades/HTA/Nehlia follow-ups remain blocked/manual review; Furbishy excluded. Globe Overseas buyer unverified; source workbook unavailable.",
+  "monitoring_note": "2026-10-29 16:05 IST — Checked WHA SME Outreach label (52 messages), today's inbox (7 messages), ten original/follow-up Gmail threads (five industrial + five 26 Oct B2B), exact-recipient incoming mail, bounce/opt-out searches, and Gmail SENT confirmation for five 29 Oct follow-ups. No new WHA prospect replies, relevant bounces, DND/opt-outs or meetings. No new sends this check. Five 29 Oct follow-ups remain Gmail SENT, recipient delivery unconfirmed; finals due 5 Nov subject to fresh checks. Industrial final attempts and Shades/HTA/Nehlia follow-ups remain blocked/manual review; Furbishy excluded. Globe Overseas buyer unverified; source workbook unavailable."
 }
