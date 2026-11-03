@@ -224,7 +224,6 @@
         {
           "date": "2026-10-13",
           "gmail_message_id": "1a1330d7c6392162",
-          "email": "thakkardevanshi82@gmail.com",
           "reply_confirmed": false
         }
       ],
@@ -286,7 +285,6 @@
         {
           "date": "2026-10-13",
           "gmail_message_id": "1a1330d5ee56607a",
-          "email": "ripul@babyorgano.com",
           "reply_confirmed": false
         }
       ],
@@ -309,7 +307,6 @@
         {
           "date": "2026-10-13",
           "gmail_message_id": "1a1330d69066d787",
-          "email": "dm@shreejiventures.in",
           "reply_confirmed": false
         }
       ],
@@ -332,7 +329,6 @@
         {
           "date": "2026-10-13",
           "gmail_message_id": "1a1330d7273831e4",
-          "email": "info@propertyserch.com",
           "reply_confirmed": false
         }
       ],
@@ -588,7 +584,6 @@
       "domain_verification": "User corrected email to timesofindia.com and explicitly requested resend; Gmail SENT verified 23 Oct.",
       "send_confirmed": true,
       "original_typo_send": {
-        "email": "suryanshu.vyas@timesoindia.com",
         "gmail_message_id": "1a162b9a400e4c86",
         "date": "2026-10-22",
         "status": "PERMANENT DELIVERY FAILURE confirmed 2026-10-25; suppress permanently",
