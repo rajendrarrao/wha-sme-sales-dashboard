@@ -1,12 +1,11 @@
 {
-  "updated_at": "2026-11-02T16:02:00+05:30",
+  "updated_at": "2026-11-03T09:03:00+05:30",
   "records": [
     {
       "date": "2026-10-13",
       "company": "Promas Engineers",
       "buyer": "Balasaheb Gatkal — Director",
       "service": "Industrial SEO / B2B enquiries",
-      "email": "sales@promasindia.com",
       "source": "Previously researched industrial prospect; public company inbox",
       "stage": "Sent",
       "gmail_message_id": "1a13318c0e031434",
@@ -26,14 +25,13 @@
         }
       ],
       "owner_action": "Final follow-up blocked 23 Oct; manual review before any additional contact.",
-      "last_checked": "2026-11-02T16:02:00+05:30"
+      "last_checked": "2026-11-03T09:03:00+05:30"
     },
     {
       "date": "2026-10-13",
       "company": "Bright HVAC Engineers",
       "buyer": "Jaysukhlal Desai — Director",
       "service": "HVAC SEO / Commercial enquiries",
-      "email": "brighthvacengineers@gmail.com",
       "source": "Previously researched industrial prospect; public company inbox",
       "stage": "Sent",
       "gmail_message_id": "1a13318bbe838209",
@@ -53,14 +51,13 @@
         }
       ],
       "owner_action": "Final follow-up blocked 23 Oct; manual review before any additional contact.",
-      "last_checked": "2026-11-02T16:02:00+05:30"
+      "last_checked": "2026-11-03T09:03:00+05:30"
     },
     {
       "date": "2026-10-13",
       "company": "Everest Engineering Equipment",
       "buyer": "P. V. Ramdev — Managing Director",
       "service": "Industrial lead generation",
-      "email": "sales@everestengg.in",
       "source": "Previously researched industrial prospect; public company inbox",
       "stage": "Sent",
       "gmail_message_id": "1a13318ae5c56c94",
@@ -80,14 +77,13 @@
         }
       ],
       "owner_action": "Final follow-up blocked 23 Oct; manual review before any additional contact.",
-      "last_checked": "2026-11-02T16:02:00+05:30"
+      "last_checked": "2026-11-03T09:03:00+05:30"
     },
     {
       "date": "2026-10-13",
       "company": "Skandwil India",
       "buyer": "Samir Shah — Director",
       "service": "Industrial SEO / B2B enquiries",
-      "email": "info@skandwil.in",
       "source": "Previously researched industrial prospect; public company inbox",
       "stage": "Sent",
       "gmail_message_id": "1a13318a7da339d8",
@@ -107,14 +103,13 @@
         }
       ],
       "owner_action": "Final follow-up blocked 23 Oct; manual review before any additional contact.",
-      "last_checked": "2026-11-02T16:02:00+05:30"
+      "last_checked": "2026-11-03T09:03:00+05:30"
     },
     {
       "date": "2026-10-13",
       "company": "An-Tech Fabrication",
       "buyer": "Saurabh Kanakiya — Director",
       "service": "Industrial SEO / B2B enquiries",
-      "email": "antechfabrication@gmail.com",
       "source": "Previously researched industrial prospect; public company inbox",
       "stage": "Sent",
       "gmail_message_id": "1a133189f2651106",
@@ -134,7 +129,7 @@
         }
       ],
       "owner_action": "Final follow-up blocked 23 Oct; manual review before any additional contact.",
-      "last_checked": "2026-11-02T16:02:00+05:30"
+      "last_checked": "2026-11-03T09:03:00+05:30"
     },
     {
       "date": "2026-10-11",
@@ -149,7 +144,7 @@
       "new_prospect": true,
       "next_action": "Await company website and RFP details; submit company profile and relevant case studies; confirm remote delivery acceptance",
       "evidence_url": "https://www.linkedin.com/in/veena-wadhwani-21842b192",
-      "last_checked": "2026-11-02T16:02:00+05:30"
+      "last_checked": "2026-11-03T09:03:00+05:30"
     },
     {
       "date": "2026-10-11",
@@ -164,7 +159,7 @@
       "new_prospect": true,
       "next_action": "Check reply; clarify whether remote pan-India agency meets Delhi/NCR-only requirement",
       "evidence_url": "",
-      "last_checked": "2026-11-02T16:02:00+05:30"
+      "last_checked": "2026-11-03T09:03:00+05:30"
     },
     {
       "date": "2026-10-11",
@@ -179,7 +174,7 @@
       "new_prospect": true,
       "next_action": "Check reply; share relevant B2B case studies; clarify security-sector experience; ask for 15-minute call",
       "evidence_url": "https://protexivesecurity.com/contact-us.html",
-      "last_checked": "2026-11-02T16:02:00+05:30"
+      "last_checked": "2026-11-03T09:03:00+05:30"
     },
     {
       "date": "2026-10-09",
@@ -195,7 +190,7 @@
       "next_action": "Hard bounce 9 Oct: address not found. Do not resend; verify replacement contact.",
       "evidence_url": "https://www.bendnfab.com/index.php/home/contact",
       "bounced": true,
-      "last_checked": "2026-11-02T16:02:00+05:30"
+      "last_checked": "2026-11-03T09:03:00+05:30"
     },
     {
       "date": "2026-10-08",
@@ -210,7 +205,7 @@
       "new_prospect": true,
       "next_action": "Monitor reply; identify named marketing decision-maker",
       "evidence_url": "",
-      "last_checked": "2026-11-02T16:02:00+05:30"
+      "last_checked": "2026-11-03T09:03:00+05:30"
     },
     {
       "date": "2026-10-08",
@@ -233,7 +228,7 @@
           "reply_confirmed": false
         }
       ],
-      "last_checked": "2026-11-02T16:02:00+05:30"
+      "last_checked": "2026-11-03T09:03:00+05:30"
     },
     {
       "date": "2026-10-07",
@@ -246,7 +241,7 @@
       "researched": true,
       "qualified": true,
       "next_action": "Follow up after appropriate interval",
-      "last_checked": "2026-11-02T16:02:00+05:30"
+      "last_checked": "2026-11-03T09:03:00+05:30"
     },
     {
       "date": "2026-10-07",
@@ -259,7 +254,7 @@
       "researched": true,
       "qualified": false,
       "next_action": "Verify exact buyer before counting qualified",
-      "last_checked": "2026-11-02T16:02:00+05:30"
+      "last_checked": "2026-11-03T09:03:00+05:30"
     },
     {
       "date": "2026-10-07",
@@ -272,7 +267,7 @@
       "researched": true,
       "qualified": false,
       "next_action": "Verify exact buyer before counting qualified",
-      "last_checked": "2026-11-02T16:02:00+05:30"
+      "last_checked": "2026-11-03T09:03:00+05:30"
     },
     {
       "date": "2026-10-08",
@@ -295,7 +290,7 @@
           "reply_confirmed": false
         }
       ],
-      "last_checked": "2026-11-02T16:02:00+05:30"
+      "last_checked": "2026-11-03T09:03:00+05:30"
     },
     {
       "date": "2026-10-08",
@@ -318,7 +313,7 @@
           "reply_confirmed": false
         }
       ],
-      "last_checked": "2026-11-02T16:02:00+05:30"
+      "last_checked": "2026-11-03T09:03:00+05:30"
     },
     {
       "date": "2026-10-08",
@@ -341,7 +336,7 @@
           "reply_confirmed": false
         }
       ],
-      "last_checked": "2026-11-02T16:02:00+05:30"
+      "last_checked": "2026-11-03T09:03:00+05:30"
     },
     {
       "date": "2026-10-07",
@@ -356,7 +351,7 @@
       "new_prospect": true,
       "next_action": "Identify named decision maker",
       "evidence_url": "",
-      "last_checked": "2026-11-02T16:02:00+05:30"
+      "last_checked": "2026-11-03T09:03:00+05:30"
     },
     {
       "date": "2026-10-07",
@@ -371,7 +366,7 @@
       "new_prospect": true,
       "next_action": "Identify named decision maker",
       "evidence_url": "",
-      "last_checked": "2026-11-02T16:02:00+05:30"
+      "last_checked": "2026-11-03T09:03:00+05:30"
     },
     {
       "date": "2026-10-07",
@@ -386,7 +381,7 @@
       "new_prospect": true,
       "next_action": "Identify marketing buyer; duplicate send exists; do not resend",
       "evidence_url": "",
-      "last_checked": "2026-11-02T16:02:00+05:30"
+      "last_checked": "2026-11-03T09:03:00+05:30"
     },
     {
       "date": "2026-10-07",
@@ -401,7 +396,7 @@
       "new_prospect": true,
       "next_action": "Identify decision maker",
       "evidence_url": "",
-      "last_checked": "2026-11-02T16:02:00+05:30"
+      "last_checked": "2026-11-03T09:03:00+05:30"
     },
     {
       "date": "2026-10-07",
@@ -416,7 +411,7 @@
       "new_prospect": true,
       "next_action": "Identify decision maker",
       "evidence_url": "",
-      "last_checked": "2026-11-02T16:02:00+05:30"
+      "last_checked": "2026-11-03T09:03:00+05:30"
     },
     {
       "date": "2026-10-07",
@@ -431,7 +426,7 @@
       "new_prospect": true,
       "next_action": "Identify decision maker",
       "evidence_url": "",
-      "last_checked": "2026-11-02T16:02:00+05:30"
+      "last_checked": "2026-11-03T09:03:00+05:30"
     },
     {
       "date": "2026-10-07",
@@ -446,7 +441,7 @@
       "new_prospect": true,
       "next_action": "Identify decision maker",
       "evidence_url": "",
-      "last_checked": "2026-11-02T16:02:00+05:30"
+      "last_checked": "2026-11-03T09:03:00+05:30"
     },
     {
       "date": "2026-10-07",
@@ -461,7 +456,7 @@
       "new_prospect": true,
       "next_action": "Identify decision maker",
       "evidence_url": "",
-      "last_checked": "2026-11-02T16:02:00+05:30"
+      "last_checked": "2026-11-03T09:03:00+05:30"
     },
     {
       "date": "2026-10-07",
@@ -476,7 +471,7 @@
       "new_prospect": true,
       "next_action": "Identify decision maker",
       "evidence_url": "",
-      "last_checked": "2026-11-02T16:02:00+05:30"
+      "last_checked": "2026-11-03T09:03:00+05:30"
     },
     {
       "date": "2026-10-15",
@@ -490,7 +485,7 @@
       "owner_action": "Review blocked first follow-up and decision-maker eligibility.",
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "last_checked": "2026-11-02T16:02:00+05:30"
+      "last_checked": "2026-11-03T09:03:00+05:30"
     },
     {
       "date": "2026-10-15",
@@ -503,7 +498,7 @@
       "next_action": "Excluded interior-design segment. First-touch previously sent; no further outreach.",
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "last_checked": "2026-11-02T16:02:00+05:30"
+      "last_checked": "2026-11-03T09:03:00+05:30"
     },
     {
       "date": "2026-10-15",
@@ -517,7 +512,7 @@
       "owner_action": "Review blocked first follow-up.",
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "last_checked": "2026-11-02T16:02:00+05:30"
+      "last_checked": "2026-11-03T09:03:00+05:30"
     },
     {
       "date": "2026-10-15",
@@ -531,7 +526,7 @@
       "owner_action": "Review blocked first follow-up.",
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "last_checked": "2026-11-02T16:02:00+05:30"
+      "last_checked": "2026-11-03T09:03:00+05:30"
     },
     {
       "date": "2026-10-19",
@@ -544,7 +539,7 @@
       "next_action": "Hold follow-up pending education-sector exclusion check.",
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "last_checked": "2026-11-02T16:02:00+05:30"
+      "last_checked": "2026-11-03T09:03:00+05:30"
     },
     {
       "date": "2026-10-22",
@@ -554,18 +549,26 @@
       "source": "Published agency requirement",
       "stage": "Sent",
       "gmail_message_id": "1a162b7f4eb86ce6",
-      "next_action": "First follow-up Gmail SENT 27 Oct; no reply, bounce or opt-out found by 17:00 IST. Final follow-up due 3 Nov 2026 only if still eligible.",
+      "next_action": "Final follow-up Gmail SENT 03 Nov in original thread. Outreach sequence complete; no further emails. Monitor replies/opt-outs; call only on high-intent response.",
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "last_checked": "2026-11-02T16:02:00+05:30",
+      "last_checked": "2026-11-03T09:03:00+05:30",
       "followups": [
         {
           "date": "2026-10-27",
           "gmail_message_id": "1a17b679a9a0368a",
           "reply_confirmed": false
+        },
+        {
+          "date": "2026-11-03",
+          "gmail_message_id": "1a19f78bb4f843d4",
+          "reply_confirmed": false,
+          "kind": "final"
         }
       ],
-      "followup_due": "2026-11-03"
+      "followup_due": null,
+      "owner_action": "Sequence complete; no further outbound messages.",
+      "delivery_status": "Gmail SENT confirmed; recipient delivery unverified."
     },
     {
       "date": "2026-10-23",
@@ -578,12 +581,11 @@
       "next_action": "First follow-up Gmail SENT 28 Oct to corrected timesofindia.com recipient in original thread; final due 4 Nov after 5 business days, only if no reply/bounce/opt-out. Original typo address permanently suppressed.",
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "last_checked": "2026-11-02T16:02:00+05:30",
+      "last_checked": "2026-11-03T09:03:00+05:30",
       "delivery_status": "Original typo-domain address permanently bounced 25 Oct; corrected address original and first follow-up Gmail SENT; actual delivery unconfirmed, no corrected-address bounce detected as of 28 Oct morning.",
       "delivery_notice_message_id": "1a172564acceadd0",
       "followup_due": "2026-11-04",
       "domain_verification": "User corrected email to timesofindia.com and explicitly requested resend; Gmail SENT verified 23 Oct.",
-      "email": "suryanshu.vyas@timesofindia.com",
       "send_confirmed": true,
       "original_typo_send": {
         "email": "suryanshu.vyas@timesoindia.com",
@@ -614,7 +616,7 @@
       "next_action": "Verify attributable direct working email, buyer fit, duplicates and opt-outs before first touch.",
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "last_checked": "2026-11-02T16:02:00+05:30"
+      "last_checked": "2026-11-03T09:03:00+05:30"
     },
     {
       "date": "2026-10-21",
@@ -626,7 +628,7 @@
       "next_action": "Verify marketing buyer, attributable working email and opt-outs before first touch.",
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "last_checked": "2026-11-02T16:02:00+05:30"
+      "last_checked": "2026-11-03T09:03:00+05:30"
     },
     {
       "date": "2026-10-21",
@@ -638,7 +640,7 @@
       "next_action": "Verify company fit and decision-maker direct email.",
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "last_checked": "2026-11-02T16:02:00+05:30"
+      "last_checked": "2026-11-03T09:03:00+05:30"
     },
     {
       "date": "2026-10-21",
@@ -650,7 +652,7 @@
       "next_action": "Verify marketing procurement and decision-maker email.",
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "last_checked": "2026-11-02T16:02:00+05:30"
+      "last_checked": "2026-11-03T09:03:00+05:30"
     },
     {
       "date": "2026-10-21",
@@ -662,13 +664,12 @@
       "next_action": "Verify company fit, decision-maker and working email.",
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "last_checked": "2026-11-02T16:02:00+05:30"
+      "last_checked": "2026-11-03T09:03:00+05:30"
     },
     {
       "date": "2026-10-26",
       "company": "Advancetech Controls",
       "buyer": "Prajakta Kadam — Head of Marketing",
-      "email": "prajakta.kadam@advancetech.in",
       "service": "B2B SEO",
       "source": "Apollo verified work email; Gmail SENT",
       "stage": "Sent",
@@ -690,7 +691,7 @@
           "reply_confirmed": false
         }
       ],
-      "last_checked": "2026-11-02T16:02:00+05:30",
+      "last_checked": "2026-11-03T09:03:00+05:30",
       "first_followup_sent": "2026-10-29",
       "last_followup_message_id": "1a1870405997726e",
       "delivery_status": "Gmail SENT confirmed for first touch and first follow-up; recipient delivery not independently confirmed. No relevant bounce/opt-out found as of 29 Oct 15:05 IST."
@@ -699,7 +700,6 @@
       "date": "2026-10-26",
       "company": "Alkem MedTech",
       "buyer": "Adwait Chandorkar — Head of Marketing",
-      "email": "adwait.chandorkar@alkemmedtech.com",
       "service": "Organic SEO",
       "source": "Apollo verified work email; Gmail SENT",
       "stage": "Sent",
@@ -721,7 +721,7 @@
           "reply_confirmed": false
         }
       ],
-      "last_checked": "2026-11-02T16:02:00+05:30",
+      "last_checked": "2026-11-03T09:03:00+05:30",
       "first_followup_sent": "2026-10-29",
       "last_followup_message_id": "1a1870420eabf088",
       "delivery_status": "Gmail SENT confirmed for first touch and first follow-up; recipient delivery not independently confirmed. No relevant bounce/opt-out found as of 29 Oct 15:05 IST."
@@ -730,7 +730,6 @@
       "date": "2026-10-26",
       "company": "Kremoint Pharma",
       "buyer": "Bhadresh Thakkar — Director, Marketing",
-      "email": "bhadresh@kremointpharma.com",
       "service": "B2B SEO",
       "source": "Apollo verified work email; Gmail SENT",
       "stage": "Sent",
@@ -752,7 +751,7 @@
           "reply_confirmed": false
         }
       ],
-      "last_checked": "2026-11-02T16:02:00+05:30",
+      "last_checked": "2026-11-03T09:03:00+05:30",
       "first_followup_sent": "2026-10-29",
       "last_followup_message_id": "1a1870429a204546",
       "delivery_status": "Gmail SENT confirmed for first touch and first follow-up; recipient delivery not independently confirmed. No relevant bounce/opt-out found as of 29 Oct 15:05 IST."
@@ -761,7 +760,6 @@
       "date": "2026-10-26",
       "company": "Aguapuro Equipments",
       "buyer": "Prasad Naik — Head Marketing",
-      "email": "prasad.naik@aguapuro.com",
       "service": "B2B SEO",
       "source": "Apollo verified work email; Gmail SENT",
       "stage": "Sent",
@@ -783,7 +781,7 @@
           "reply_confirmed": false
         }
       ],
-      "last_checked": "2026-11-02T16:02:00+05:30",
+      "last_checked": "2026-11-03T09:03:00+05:30",
       "first_followup_sent": "2026-10-29",
       "last_followup_message_id": "1a18704316b197e2",
       "delivery_status": "Gmail SENT confirmed for first touch and first follow-up; recipient delivery not independently confirmed. No relevant bounce/opt-out found as of 29 Oct 15:05 IST."
@@ -792,7 +790,6 @@
       "date": "2026-10-26",
       "company": "Khetan Packfine",
       "buyer": "Sujit Nair — Head of Marketing",
-      "email": "sujit.nair@khetangroup.in",
       "service": "B2B SEO",
       "source": "Apollo verified work email; Gmail SENT",
       "stage": "Sent",
@@ -814,7 +811,7 @@
           "reply_confirmed": false
         }
       ],
-      "last_checked": "2026-11-02T16:02:00+05:30",
+      "last_checked": "2026-11-03T09:03:00+05:30",
       "first_followup_sent": "2026-10-29",
       "last_followup_message_id": "1a18704368ac1aea",
       "delivery_status": "Gmail SENT confirmed for first touch and first follow-up; recipient delivery not independently confirmed. No relevant bounce/opt-out found as of 29 Oct 15:05 IST."
@@ -832,13 +829,12 @@
       "reply_confirmed": false,
       "meeting_confirmed": false,
       "next_action": "30 Oct Apollo research: two distinct entities. GLOBE OVERSEAS (Rajkot, globeoverseas.co): Meetesh Viradiya, Managing Director. Globe Overseas Pvt. Ltd. (Delhi): Anmol Sharma, Managing Director, and Anju Mittal, Director. No dedicated marketing title found; these are possible decision-makers, NOT confirmed marketing buyers. Historical workbook unavailable, so cannot establish which company is intended. No attributable verified email. HOLD; confirm exact entity, current fit, buyer, email, duplicates and opt-outs before first touch.",
-      "last_checked": "2026-11-02T16:02:00+05:30"
+      "last_checked": "2026-11-03T09:03:00+05:30"
     },
     {
       "date": "2026-11-02",
       "company": "Qrelix Solutions — loan opportunities platform",
-      "buyer": "Published agency requirement; recipient care@qrelixsolutions.com; named marketing decision-maker unverified",
-      "email": "care@qrelixsolutions.com",
+      "buyer": "Published agency requirement; recipient [contact in private CRM]; named marketing decision-maker unverified",
       "service": "Digital customer-acquisition strategy",
       "source": "User-supplied public agency-partner requirement; user explicitly requested email",
       "stage": "Sent",
@@ -852,13 +848,12 @@
       "followup_due": "2026-11-05",
       "next_action": "Gmail-confirmed first touch 2 Nov ~11:59 IST; WHA label applied. Review first follow-up eligibility on 5 Nov (3 business days) only after checking reply/bounce/DND/opt-out, buyer identity, duplicates and financial-services advertising policy fit. Do not claim recipient delivery or prior relationship.",
       "delivery_status": "Gmail SENT confirmed; recipient delivery unverified. No incoming reply or relevant bounce/opt-out identified in 02 Nov 16:02 IST check.",
-      "last_checked": "2026-11-02T16:02:00+05:30"
+      "last_checked": "2026-11-03T09:03:00+05:30"
     },
     {
       "date": "2026-11-02",
       "company": "Affluence — performance/growth agency requirement",
-      "buyer": "Published agency requirement; recipient Affluenceerrs@gmail.com; named marketing decision-maker unverified",
-      "email": "Affluenceerrs@gmail.com",
+      "buyer": "Published agency requirement; recipient [contact in private CRM]; named marketing decision-maker unverified",
       "service": "Performance marketing / customer acquisition",
       "source": "User-supplied published agency-partner requirement; user explicitly requested email",
       "stage": "Sent",
@@ -872,9 +867,28 @@
       "followup_due": "2026-11-05",
       "next_action": "User-requested first-touch Gmail SENT 02 Nov ~13:56 IST. Management-fee budget ₹15,000–₹25,000/month; media spend separate. Before first follow-up eligibility 05 Nov verify business/platform fit, named buyer, prior thread, reply, bounce, opt-out and suppression. Do not claim recipient delivery or prior relationship.",
       "delivery_status": "Gmail SENT confirmed; recipient delivery unverified. No incoming reply or relevant bounce/opt-out identified in 02 Nov 16:02 IST check.",
-      "last_checked": "2026-11-02T16:02:00+05:30"
+      "last_checked": "2026-11-03T09:03:00+05:30"
+    },
+    {
+      "date": "2026-11-02",
+      "company": "Nirantix — strategic digital marketing partner",
+      "buyer": "Published agency requirement; marketing buyer unverified",
+      "service": "SEO / organic lead generation",
+      "source": "User-supplied published agency requirement; user explicitly requested response",
+      "stage": "Sent",
+      "gmail_message_id": "1a19c6c28d4b63f1",
+      "send_confirmed": true,
+      "researched": false,
+      "qualified": false,
+      "new_prospect": true,
+      "reply_confirmed": false,
+      "meeting_confirmed": false,
+      "followup_due": "2026-11-05",
+      "next_action": "Gmail-confirmed first touch 02 Nov; labeled WHA SME Outreach 03 Nov. First follow-up eligibility 05 Nov after verifying replies, bounce, opt-out, fit and buyer; delivery not confirmed.",
+      "delivery_status": "Gmail SENT confirmed; recipient delivery unverified.",
+      "last_checked": "2026-11-03T09:03:00+05:30"
     }
   ],
-  "reporting_note": "02 Nov 2026 14:06 IST — Reviewed 58 WHA SME Outreach messages (59 after labeling Affluence), 10 recent non-promotional inbox messages, 2 Gmail-confirmed recent sends and targeted prospect inbound/bounce/opt-out searches. No new prospect replies, relevant bounces, opt-outs or confirmed WHA meetings. User-requested Affluence first touch Gmail SENT 02 Nov ~13:56 IST (1a19b5d88ed8a812), labeled WHA SME Outreach; Qrelix first touch previously sent ~11:59 IST (1a19af3883c4373e). No new automated follow-ups. Five industrial final follow-ups blocked/NOT SENT; Shades/HTA/Nehlia first follow-ups blocked; Furbishy excluded. Globe Overseas company and marketing buyer unverified; nine-lead source workbook unavailable. Eligibility reviews: Sanchit 03 Nov, Times of India 04 Nov, five B2B prospects and Qrelix/Affluence 05 Nov; all require fresh preflight and fit checks.",
-  "monitoring_note": "02 Nov 2026 16:02 IST: WHA SME Outreach and recent non-promotional inbox reviewed; 17 targeted prospect sender searches, delivery notices, DND/opt-outs and relevant calendar searches checked. No new prospect replies, relevant bounces, opt-outs or confirmed WHA meetings. No new emails sent. Historical Times of India typo-address delivery failure preserved; corrected address delivery unconfirmed. Five industrial final follow-ups blocked, NOT SENT; Shades/HTA/Nehlia follow-ups blocked, NOT SENT; Furbishy excluded. Globe Overseas and historical nine-lead workbook remain unresolved. Upcoming eligibility: Sanchit 03 Nov; Times of India 04 Nov; five B2B and Qrelix/Affluence 05 Nov, subject to fresh Gmail preflight."
+  "reporting_note": "03 Nov 2026 09:03 IST — 47 tracked records after adding Nirantix. Gmail-confirmed Sanchit final follow-up and Nirantix 02 Nov first touch. No confirmed new replies, opt-outs, bounces or meetings in monitored searches. Public dashboard contact emails redacted; detailed contact data remains in private CRM.",
+  "monitoring_note": "03 Nov 2026 09:03 IST — Reviewed WHA SME Outreach, inbox since 02 Nov, Sanchit thread, industrial/priority sender replies, bounce/opt-out searches and relevant Calendar keywords. No new prospect replies, relevant bounces, opt-outs or confirmed meetings found. Sanchit final follow-up Gmail SENT 03 Nov, thread verified and labeled. Nirantix first-touch 02 Nov verified and labeled 03 Nov. Five industrial final follow-ups remain blocked/NOT SENT; Shades/HTA/Nehlia on hold; Furbishy excluded. Globe Overseas and historical nine-lead workbook unverified. Times of India review 04 Nov; five B2B and Qrelix/Affluence/Nirantix 05 Nov subject to fresh preflight."
 }
