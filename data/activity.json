@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T17:02:00+05:30",
+  "updated_at": "2026-11-05T09:00:00+05:30",
   "records": [
     {
       "date": "2026-10-13",
@@ -574,13 +574,13 @@
       "source": "Published agency requirement",
       "stage": "Sent",
       "gmail_message_id": "1a168627f4edabf1",
-      "next_action": "First follow-up Gmail SENT 28 Oct to corrected timesofindia.com recipient in original thread; final due 4 Nov after 5 business days, only if no reply/bounce/opt-out. Original typo address permanently suppressed.",
+      "next_action": "Final follow-up Gmail SENT 4 Nov; sequence complete. Monitor inbound only; suppress original typo address.",
       "reply_confirmed": false,
       "meeting_confirmed": false,
-      "last_checked": "2026-11-03T17:02:00+05:30",
+      "last_checked": "2026-11-05T09:00:00+05:30",
       "delivery_status": "Original typo-domain address permanently bounced 25 Oct; corrected address original and first follow-up Gmail SENT; actual delivery unconfirmed, no corrected-address bounce detected as of 28 Oct morning.",
       "delivery_notice_message_id": "1a172564acceadd0",
-      "followup_due": "2026-11-04",
+      "followup_due": null,
       "domain_verification": "User corrected email to timesofindia.com and explicitly requested resend; Gmail SENT verified 23 Oct.",
       "send_confirmed": true,
       "original_typo_send": {
@@ -596,10 +596,17 @@
           "type": "first_followup",
           "status": "Gmail SENT",
           "reply_confirmed": false
+        },
+        {
+          "date": "2026-11-04",
+          "gmail_message_id": "1a1a49f27ef50fb8",
+          "type": "final_followup",
+          "status": "Gmail SENT",
+          "reply_confirmed": false
         }
       ],
       "first_followup_sent": "2026-10-28",
-      "last_followup_message_id": "1a180913277e33b1"
+      "last_followup_message_id": "1a1a49f27ef50fb8"
     },
     {
       "date": "2026-10-21",
@@ -883,6 +890,24 @@
       "next_action": "Gmail-confirmed first touch 02 Nov; labeled WHA SME Outreach 03 Nov. First follow-up eligibility 05 Nov after verifying replies, bounce, opt-out, fit and buyer; delivery not confirmed.",
       "delivery_status": "Gmail SENT confirmed; recipient delivery unverified.",
       "last_checked": "2026-11-03T17:02:00+05:30"
+    },
+    {
+      "date": "2026-11-04",
+      "company": "Santech Machinery and Equipment Pvt. Ltd.",
+      "buyer": "Arya Rankhambe — inbound enquiry",
+      "service": "SEO / GEO / Google Ads / industrial B2B lead generation",
+      "source": "Direct inbound enquiry from sales@santechs.net",
+      "stage": "Replied — high-intent inbound; call priority",
+      "gmail_message_id": "1a1a69517c182f35",
+      "inbound_message_id": "1a1a6733a8d5d476",
+      "send_confirmed": true,
+      "reply_confirmed": true,
+      "meeting_confirmed": false,
+      "bounced": false,
+      "delivery_status": "Reply sent to sales@santechs.net and CC santtossh@santechs.net; CC prakash@santehs.net hard-bounced (NXDOMAIN) 4 Nov. Suppress invalid CC; primary recipient delivery not confirmed.",
+      "delivery_notice_message_id": "1a1a6951f8b46337",
+      "next_action": "PRIORITY CALL: +91 9136056899. Qualify machinery categories, target geography and ad budget; schedule discovery call. Quote already sent 4 Nov (₹70k SEO+GEO; ₹80k SEO+GEO+Ads management plus spend/GST). Do not send duplicate response. Suppress prakash@santehs.net.",
+      "last_checked": "2026-11-05T09:00:00+05:30"
     }
   ],
   "reporting_note": "03 Nov 2026 17:02 IST — 47 tracked records, 26 CRM rows updated. Gmail label 61 messages/44 threads; no new prospect replies, relevant bounces, opt-outs or meetings. No sends this review. Follow-up holds and due dates preserved.",
