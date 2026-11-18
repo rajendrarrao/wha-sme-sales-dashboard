@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T09:00:00+05:30",
+  "updated_at": "2026-11-18T14:01:00+05:30",
   "records": [
     {
       "date": "2026-10-13",
@@ -25,7 +25,7 @@
         }
       ],
       "owner_action": "Final follow-up blocked 23 Oct; manual review before any additional contact.",
-      "last_checked": "2026-11-03T17:02:00+05:30"
+      "last_checked": "2026-11-18T14:01:00+05:30"
     },
     {
       "date": "2026-10-13",
@@ -51,7 +51,7 @@
         }
       ],
       "owner_action": "Final follow-up blocked 23 Oct; manual review before any additional contact.",
-      "last_checked": "2026-11-03T17:02:00+05:30"
+      "last_checked": "2026-11-18T14:01:00+05:30"
     },
     {
       "date": "2026-10-13",
@@ -77,7 +77,7 @@
         }
       ],
       "owner_action": "Final follow-up blocked 23 Oct; manual review before any additional contact.",
-      "last_checked": "2026-11-03T17:02:00+05:30"
+      "last_checked": "2026-11-18T14:01:00+05:30"
     },
     {
       "date": "2026-10-13",
@@ -103,7 +103,7 @@
         }
       ],
       "owner_action": "Final follow-up blocked 23 Oct; manual review before any additional contact.",
-      "last_checked": "2026-11-03T17:02:00+05:30"
+      "last_checked": "2026-11-18T14:01:00+05:30"
     },
     {
       "date": "2026-10-13",
@@ -129,7 +129,7 @@
         }
       ],
       "owner_action": "Final follow-up blocked 23 Oct; manual review before any additional contact.",
-      "last_checked": "2026-11-03T17:02:00+05:30"
+      "last_checked": "2026-11-18T14:01:00+05:30"
     },
     {
       "date": "2026-10-11",
@@ -908,6 +908,26 @@
       "delivery_notice_message_id": "1a1a6951f8b46337",
       "next_action": "PRIORITY CALL: +91 9136056899. Qualify machinery categories, target geography and ad budget; schedule discovery call. Quote already sent 4 Nov (₹70k SEO+GEO; ₹80k SEO+GEO+Ads management plus spend/GST). Do not send duplicate response. Suppress prakash@santehs.net.",
       "last_checked": "2026-11-05T09:00:00+05:30"
+    },
+    {
+      "date": "2026-11-18",
+      "company": "Fission Labs",
+      "buyer": "Marketing Director (public LinkedIn request)",
+      "service": "B2B LinkedIn strategy and creative storytelling",
+      "source": "Public agency credentials request",
+      "stage": "Credentials sent — no follow-up",
+      "gmail_message_id": "1a1edc272a2430af",
+      "researched": true,
+      "qualified": true,
+      "new_prospect": true,
+      "reply_confirmed": false,
+      "meeting_confirmed": false,
+      "next_action": "Await buyer shortlist response. Explicitly no DM, calls or email follow-ups.",
+      "activity_type": "new",
+      "followup_due": null,
+      "followups": [],
+      "owner_action": "Monitor inbound only; two PDF attachments Gmail-confirmed.",
+      "last_checked": "2026-11-18T14:01:00+05:30"
     }
   ],
   "reporting_note": "03 Nov 2026 17:02 IST — 47 tracked records, 26 CRM rows updated. Gmail label 61 messages/44 threads; no new prospect replies, relevant bounces, opt-outs or meetings. No sends this review. Follow-up holds and due dates preserved.",
